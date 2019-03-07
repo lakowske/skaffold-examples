@@ -30,6 +30,9 @@ copyDebian = Shell "scp -r debian/ user@remote-host.com:~/"
 showHome :: Shell String
 showHome = Shell "ls /Users/home"
 
+toNamespace :: String -> String -> Shell String
+toNamespace namespace command = Shell (command ++ " --namespace " ++ namespace)
+
 getNodePort :: String -> String -> Shell String
 getNodePort namespace configMap = Shell ("kubectl get configmap --namespace "++namespace++" "++configMap++" -o jsonpath=\"{.data.port}\"")
 
@@ -48,6 +51,12 @@ getDB namespace configMap = Shell ("kubectl get configmap --namespace "++namespa
 getHost :: String -> String -> Shell String
 getHost namespace configMap = Shell ("kubectl get configmap --namespace "++namespace++" "++configMap++" -o jsonpath=\"{.data.host}\"")
 
+getResource :: String -> Shell String
+getResource resource = do
+  return ("kubectl get " ++ resource)
+
+getNamespacedResource resource namespace = getResource resource >>= toNamespace namespace
+
 fromLiteral :: [(String, String)] -> String -> String
 fromLiteral (x:xs) line = fromLiteral xs (line ++ " --from-literal="++(fst x)++"="++(snd x))
 fromLiteral [] line = line
@@ -65,6 +74,9 @@ createSecret name literals = Shell $ fromLiteral literals ("kubectl create secre
 
 deleteSecret ::  String -> Shell String
 deleteSecret name = Shell ("kubectl delete secret "++name)
+
+createNamespace :: String -> Shell String
+createNamespace name = Shell ("kubectl create namespace "++name)
 
 echo :: String -> Shell String
 echo = (\x -> Shell ("echo \"" ++ x ++ "\""))

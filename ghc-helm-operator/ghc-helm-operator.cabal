@@ -57,8 +57,14 @@ executable ghc-helm-operator
   -- other-extensions:    
   
   -- Other library packages from which modules are imported.
-  build-depends:       base
+  build-depends:       aeson >= 1.2.3.0
+                     , base
+                     , bytestring >= 0.10.8.1
+                     , containers >= 0.5.7.1
                      , process >= 1.4.3.0
+                     , template >= 0.2.0.10
+                     , text >= 1.2.2.1
+                     , yaml >= 0.8.25
   
   -- Directories containing source files.
   hs-source-dirs:      src
