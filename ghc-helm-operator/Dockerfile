@@ -27,11 +27,13 @@ RUN mkdir /opt/server
 # Add just the .cabal file to capture dependencies
 COPY ./ghc-helm-operator.cabal /opt/server
 
-COPY ./src /opt/server/src
-
 WORKDIR /opt/server
 
 RUN cabal install --only-dependencies -j4
+
+COPY ./src /opt/server/src
+
+COPY ./resources /opt/server/resources
 
 RUN cabal build
 

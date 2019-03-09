@@ -22,7 +22,12 @@ toProc :: Shell String -> CreateProcess
 toProc (Shell a) = shell a
 
 readShell :: Shell String -> IO String
-readShell s = (readCreateProcess $ toProc s) ""
+readShell s = do
+  (exitCode, sout, serr) <- readCreateProcessWithExitCode (toProc s) ""
+  case serr == "" of
+    True -> return sout
+    False -> return serr
+
 
 copyDebian :: Shell String
 copyDebian = Shell "scp -r debian/ user@remote-host.com:~/"
@@ -32,6 +37,9 @@ showHome = Shell "ls /Users/home"
 
 toNamespace :: String -> String -> Shell String
 toNamespace namespace command = Shell (command ++ " --namespace " ++ namespace)
+
+outputYaml :: String -> Shell String
+outputYaml command = Shell (command ++ " -o yaml")
 
 getNodePort :: String -> String -> Shell String
 getNodePort namespace configMap = Shell ("kubectl get configmap --namespace "++namespace++" "++configMap++" -o jsonpath=\"{.data.port}\"")
@@ -56,6 +64,8 @@ getResource resource = do
   return ("kubectl get " ++ resource)
 
 getNamespacedResource resource namespace = getResource resource >>= toNamespace namespace
+
+getNamespacedResourceYaml resource namespace = getResource resource >>= toNamespace namespace >>= outputYaml
 
 fromLiteral :: [(String, String)] -> String -> String
 fromLiteral (x:xs) line = fromLiteral xs (line ++ " --from-literal="++(fst x)++"="++(snd x))
@@ -96,19 +106,36 @@ helmListName release = Shell ("helm list -q " ++ release)
 helmContains :: String -> IO Bool
 helmContains release = do
   name <- (readShell $ helmListName release)
-  return (length name == 0)
+  return (length name /= 0)
 
+helmFailed :: String -> IO Bool
+helmFailed release = do
+  name <- (readShell $ Shell ("helm list --failed -q " ++ release))
+  return (length name /= 0)
+
+helmSuccess :: String -> IO Bool
+helmSuccess release = do
+  exists <- helmContains release
+  failed <- helmFailed release
+  putStrLn $ show exists
+  putStrLn $ show failed
+  return (exists && (not failed))
+  
 helmInstall :: String -> String -> Shell String
 helmInstall chart args = Shell ("helm install " ++ chart ++ " " ++ args)
 
+helmUpgrade :: String -> String -> String -> Shell String
+helmUpgrade chart release args = Shell ("helm upgrade -i " ++ release ++ " " ++ chart ++ " " ++ args)
+
 helmDelete :: String -> Shell String
-helmDelete release = Shell ("helm delete " ++ release)
+helmDelete release = Shell ("helm del --purge " ++ release)
 
 helmAddLakowskeRepo :: Shell String
 helmAddLakowskeRepo = Shell ("helm repo add lakowske https://lakowske.github.io/charts")
 
 helmUpdateRepos :: Shell String
 helmUpdateRepos = Shell ("helm repo update")
+
 
 passwd :: String -> String -> Shell String
 passwd namespace secret = getPassword namespace secret >>= echo

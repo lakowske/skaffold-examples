@@ -19,8 +19,10 @@ spec:
         - name: {{ .Chart.Name }}
           image: {{ .Values.image }}
           imagePullPolicy: {{ .Values.pullPolicy }}
-#          command: ["/bin/bash", "-c", "--" ]
-#          args: ["while true; do sleep 30; done;"]
+          command: ["/bin/sh", "-c", "--" ]
+#          args: ["while true; do echo \"hi\"; sleep 1; done;"]
+          args: ["while true; do echo \"running operator\" ; /opt/server/dist/build/ghc-helm-operator/ghc-helm-operator || exit 0; echo $?; sleep 1; done;"]
+
           resources:
 {{ toYaml .Values.resources | indent 12 }}
     {{- if .Values.nodeSelector }}

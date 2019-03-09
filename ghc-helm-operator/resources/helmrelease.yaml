@@ -1,0 +1,9 @@
+apiVersion: "stable.st81ess.com/v1"
+kind: HelmRelease
+metadata:
+  name: my-new-release-object2
+spec:
+  - name: "joe"
+    namespace: "jacky2"
+  - name: "jane2"
+    namespace: "janel2"

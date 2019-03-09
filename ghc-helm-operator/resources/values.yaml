@@ -1,0 +1,83 @@
+# Default values for micro-registry.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+docker-registry:
+  
+  resources:
+    limits:
+      cpu: 1m
+
+  ingress:
+    enabled: true
+
+    annotations:
+      kubernetes.io/ingress.class: nginx
+      kubernetes.io/tls-acme: 'true'    
+      ingress.kubernetes.io/proxy-body-size: 0
+
+      ingress.kubernetes.io/auth-type: basic
+      ingress.kubernetes.io/auth-secret: registry-auth
+      ingress.kubernetes.io/auth-realm: "Authentication Required - registry"
+      
+    hosts:
+      - registry.${host}
+    tls:
+      - secretName: registry-tls
+        hosts:
+          - registry.${host}
+      
+nginx-ingress:
+  resources:
+    limits:
+      cpu: 10m
+      memory: 64Mi
+    requests:
+      cpu: 10m
+      memory: 64Mi
+  controller:
+    hostNetwork: true
+    service:
+      clusterIP: 10.96.0.11
+      type: NodePort
+  defaultBackend:
+    resources:
+      requests:
+        cpu: 1m
+        memory: 16Mi
+
+        
+kube-lego:
+  resources:
+    requests:
+      cpu: 1m
+      memory: 32Mi
+  config:
+    LEGO_URL: https://acme-v01.api.letsencrypt.org/directory
+  
+kubernetes-dashboard:
+  enableInsecureLogin: true
+  enableSkipLogin: true
+  rbac:
+    clusterAdminRole: true
+  
+  ingress:
+    enabled: true
+    hosts:
+      - dashboard.${host}
+
+#    annotations:
+#      kubernetes.io/ingress.class: nginx
+#      kubernetes.io/tls-acme: 'true'    
+
+#    tls:
+#      - secretName: kubernetes-dashboard-tls
+#        hosts:
+#          - dashboard.minikube.st81ess.com
+#          - dashboard${host}
+        
+  resources:
+    requests:
+      cpu: 50m
+      memory: 50Mi
+
+      

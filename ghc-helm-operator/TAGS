@@ -2,25 +2,29 @@
 ./Setup.hs,15
 main main1,2
 
-./src/ValuesTemplate.hs,242
+./src/ValuesTemplate.hs,352
 module ValuesTemplate ValuesTemplate2,3
 context context13,14
 context context14,15
 someFile someFile17,18
 someFile someFile18,19
-main main22,23
-main main23,24
-printTemplate printTemplate27,28
-printTemplate printTemplate28,29
+templateToFile templateToFile23,24
+templateToFile templateToFile24,25
+writeTemplate writeTemplate28,29
+writeTemplate writeTemplate29,30
+printTemplate printTemplate35,36
+printTemplate printTemplate36,37
 
-./src/Main.hs,105
+./src/Main.hs,173
 module Main Main0,1
-something something4,5
-something something5,6
-main main9,10
-main main10,11
+something something8,9
+something something9,10
+monitorChart monitorChart12,13
+monitorChart monitorChart13,14
+main main43,44
+main main44,45
 
-./src/Cmd.hs,1999
+./src/Cmd.hs,2321
 module CmdCmd0,1
 data Shell Shell5,6
 data Shell a = Shell Shell5,6
@@ -29,67 +33,76 @@ toProc toProc20,21
 toProc toProc21,22
 readShell readShell23,24
 readShell readShell24,25
-copyDebian copyDebian26,27
-copyDebian copyDebian27,28
-showHome showHome29,30
-showHome showHome30,31
-toNamespace toNamespace32,33
-toNamespace toNamespace33,34
-getNodePort getNodePort35,36
-getNodePort getNodePort36,37
-getPort getPort38,39
-getPort getPort39,40
-getUser getUser41,42
-getUser getUser42,43
-getPassword getPassword44,45
-getPassword getPassword45,46
-getDB getDB47,48
-getDB getDB48,49
-getHost getHost50,51
-getHost getHost51,52
-getResource getResource53,54
-getResource getResource54,55
-getNamespacedResource getNamespacedResource57,58
-fromLiteral fromLiteral59,60
-fromLiteral fromLiteral60,61
-createConfigMap createConfigMap65,66
-createConfigMap createConfigMap66,67
-deleteConfigMap deleteConfigMap68,69
-deleteConfigMap deleteConfigMap69,70
-createSecret createSecret71,72
-createSecret createSecret72,73
-deleteSecret deleteSecret74,75
-deleteSecret deleteSecret75,76
-createNamespace createNamespace77,78
-createNamespace createNamespace78,79
-echo echo80,81
-echo echo81,82
-export export83,84
-export export84,85
-next next86,87
-next next87,88
-helmList helmList89,90
-helmList helmList90,91
-helmListName helmListName92,93
-helmListName helmListName93,94
-helmContains helmContains95,96
-helmContains helmContains96,97
-helmInstall helmInstall100,101
-helmInstall helmInstall101,102
-helmDelete helmDelete103,104
-helmDelete helmDelete104,105
-helmAddLakowskeRepo helmAddLakowskeRepo106,107
-helmAddLakowskeRepo helmAddLakowskeRepo107,108
-helmUpdateRepos helmUpdateRepos109,110
-helmUpdateRepos helmUpdateRepos110,111
-passwd passwd112,113
-passwd passwd113,114
-doStuff doStuff115,116
-doStuff doStuff116,117
-dockerBuild dockerBuild121,122
-dockerBuild dockerBuild122,123
-pwd pwd124,125
-pwd pwd125,126
+copyDebian copyDebian31,32
+copyDebian copyDebian32,33
+showHome showHome34,35
+showHome showHome35,36
+toNamespace toNamespace37,38
+toNamespace toNamespace38,39
+outputYaml outputYaml40,41
+outputYaml outputYaml41,42
+getNodePort getNodePort43,44
+getNodePort getNodePort44,45
+getPort getPort46,47
+getPort getPort47,48
+getUser getUser49,50
+getUser getUser50,51
+getPassword getPassword52,53
+getPassword getPassword53,54
+getDB getDB55,56
+getDB getDB56,57
+getHost getHost58,59
+getHost getHost59,60
+getResource getResource61,62
+getResource getResource62,63
+getNamespacedResource getNamespacedResource65,66
+getNamespacedResourceYaml getNamespacedResourceYaml67,68
+fromLiteral fromLiteral69,70
+fromLiteral fromLiteral70,71
+createConfigMap createConfigMap75,76
+createConfigMap createConfigMap76,77
+deleteConfigMap deleteConfigMap78,79
+deleteConfigMap deleteConfigMap79,80
+createSecret createSecret81,82
+createSecret createSecret82,83
+deleteSecret deleteSecret84,85
+deleteSecret deleteSecret85,86
+createNamespace createNamespace87,88
+createNamespace createNamespace88,89
+echo echo90,91
+echo echo91,92
+export export93,94
+export export94,95
+next next96,97
+next next97,98
+helmList helmList99,100
+helmList helmList100,101
+helmListName helmListName102,103
+helmListName helmListName103,104
+helmContains helmContains105,106
+helmContains helmContains106,107
+helmFailed helmFailed110,111
+helmFailed helmFailed111,112
+helmSuccess helmSuccess115,116
+helmSuccess helmSuccess116,117
+helmInstall helmInstall123,124
+helmInstall helmInstall124,125
+helmUpgrade helmUpgrade126,127
+helmUpgrade helmUpgrade127,128
+helmDelete helmDelete129,130
+helmDelete helmDelete130,131
+helmAddLakowskeRepo helmAddLakowskeRepo132,133
+helmAddLakowskeRepo helmAddLakowskeRepo133,134
+helmUpdateRepos helmUpdateRepos135,136
+helmUpdateRepos helmUpdateRepos136,137
+passwd passwd139,140
+passwd passwd140,141
+doStuff doStuff142,143
+doStuff doStuff143,144
+dockerBuild dockerBuild148,149
+dockerBuild dockerBuild149,150
+pwd pwd151,152
+pwd pwd152,153
 
 ./src/YamlConfigParser.hs,465
 module YamlConfigParser YamlConfigParser1,2
