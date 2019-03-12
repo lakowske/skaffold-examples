@@ -1,0 +1,45 @@
+library:
+  source-dirs: src
+tests:
+  helm-operator-test:
+    source-dirs: test
+    main: Spec.hs
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - helm-operator
+copyright: 2019 Author name here
+maintainer: example@example.com
+dependencies:
+- vector
+- unordered-containers
+- base >= 4.7 && < 5
+- bytestring
+- containers
+- process
+- yaml
+- text
+- mustache
+- aeson
+- megaparsec
+name: helm-operator
+version: 0.1.0.0
+extra-source-files:
+- README.md
+- ChangeLog.md
+author: Author name here
+github: githubuser/helm-operator
+license: BSD3
+executables:
+  helm-operator-exe:
+    source-dirs: app
+    main: Main.hs
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - helm-operator
+description: Please see the README on GitHub at <https://github.com/githubuser/helm-operator#readme>

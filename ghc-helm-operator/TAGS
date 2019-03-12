@@ -1,8 +1,4726 @@
 
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Layout/Where2.hs,64
+module Layout.Where2 Layout.Where20,1
+tup@(tup@2,3
+x x7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Layout/D5Simple.hs,71
+module Layout.D5Simple Layout.D5Simple0,1
+sumSquares sumSquares2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Cons.hs,120
+data Foo Foo2,3
+data Foo = Ff Ff2,3
+data Foo = Ff {fooA fooA2,3
+xx xx4,5
+instance instance6,7
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/NoMod.hs,86
+foo foo2,3
+bob bob4,5
+foo' foo'7,8
+main main11,12
+mary mary14,15
+h h16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/DupDef/Dd2.hs,56
+module DupDef.Dd2 DupDef.Dd20,1
+f2 f25,6
+mm mm7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/DupDef/Dd3.hs,56
+module DupDef.Dd3 DupDef.Dd30,1
+f2 f25,6
+mm mm7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/DupDef/Dd2Main.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/DupDef/Dd1.hs,303
+module DupDef.Dd1 DupDef.Dd10,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d5,6
+c,c5,6
+c c6,7
+d d7,8
+tup tup10,11
+h h11,12
+t t12,13
+tup@(tup@13,14
+data D D18,19
+data D = A A18,19
+data D = A | B B18,19
+data D = A | B String | CC18,19
+ff ff20,21
+l l24,25
+dd dd29,30
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/DupDef/Dd3Main.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Monadification/M1.hs,75
+module M1 M10,1
+f f2,3
+f f3,4
+g g6,7
+g g7,8
+h h9,10
+h h10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Monadification/M2.hs,219
+module M1 M10,1
+data Expr Expr3,4
+data Expr = Var Var3,4
+          | N N4,5
+          | Add Add5,6
+          | Sub Sub6,7
+          | Assign Assign7,8
+type Env Env10,11
+eval eval12,13
+eval eval14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/AddParams1.hs,58
+module AddParams1 AddParams10,1
+sq sq2,3
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/M.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Simple/A.hs,29
+module A A0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/M2.hs,29
+module M2 M20,1
+m2 m24,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/TokenTest.hs,95
+module Main Main0,1
+bob bob4,5
+bib bib7,8
+bab bab12,13
+foo foo18,19
+main main22,23
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/AddParams2.hs,57
+module AddParams2 AddParams20,1
+collapse collapse2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/M3.hs,29
+module M3 M30,1
+m3 m34,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/S1.hs,29
+module S1 S10,1
+s1 s12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Exports.hs,42
+module ExportsExports0,1
+down down8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/F.hs,43
+module F F0,1
+foo foo3,4
+bob bob9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/CExpected.hs,44
+module C C0,1
+foo foo4,5
+bob bob10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/B.hs,102
+module B B0,1
+foo foo3,4
+bob bob5,6
+foo' foo'8,9
+main main12,13
+mary mary15,16
+h h17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/C.hs,44
+module C C0,1
+foo foo4,5
+bob bob10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/FExpected.hs,43
+module F F0,1
+foo foo3,4
+bob bob9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/Foo.hs,15
+main main2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/BSimple.hs,41
+module BSimple BSimple0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/BSimpleExpected.hs,41
+module BSimple BSimple0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/D.hs,44
+module C C0,1
+foo foo4,5
+bob bob12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/E.hs,44
+module E E0,1
+foo foo4,5
+bob bob14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Case/FooExpected.hs,15
+main main2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/A1.expected.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun1.hs,58
+module SubFun1 SubFun10,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn1.expected.hs,85
+module FunIn1 FunIn10,1
+foo foo6,7
+foo foo7,8
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun2.expected.hs,58
+module SubFun2 SubFun20,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn4.expected.hs,70
+module FunIn4 FunIn40,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2.hs,117
+module FunIn2 FunIn20,1
+foo,inc inc6,7
+foo,foo6,7
+foo foo7,8
+inc inc9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/D2.hs,103
+module RmOneParameter.D2 RmOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn6.hs,70
+module FunIn6 FunIn60,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/MultiFun1.expected.hs,45
+module MultiFun1 MultiFun10,1
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn7.expected.hs,74
+module FunIn7 FunIn70,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun1.expected.hs,58
+module SubFun1 SubFun10,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/A2.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn7.hs,74
+module FunIn7 FunIn70,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2.expected.hs,115
+module FunIn2 FunIn20,1
+inc inc6,7
+foo foo8,9
+foo foo9,10
+inc inc11,12
+main main13,14
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/A2.expected.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2a.hs,119
+module FunIn2a FunIn2a0,1
+inc,foo foo6,7
+inc,inc6,7
+foo foo7,8
+inc inc9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn3.hs,70
+module FunIn3 FunIn30,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/A1.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn4.hs,70
+module FunIn4 FunIn40,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/D2.expected.hs,103
+module RmOneParameter.D2 RmOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2a.expected.hs,117
+module FunIn2a FunIn2a0,1
+inc inc6,7
+foo foo8,9
+foo foo9,10
+inc inc11,12
+main main13,14
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn0.hs,74
+module FunIn0 FunIn00,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn5.expected.hs,73
+module FunIn5 FunIn50,1
+foo foo6,7
+main main10,11
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn1.hs,85
+module FunIn1 FunIn10,1
+foo foo6,7
+foo foo7,8
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun3.expected.hs,58
+module SubFun3 SubFun30,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn0.expected.hs,74
+module FunIn0 FunIn00,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/D1.hs,102
+module RmOneParameter.D1 RmOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/MultiFun1.hs,45
+module MultiFun1 MultiFun10,1
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn5.hs,73
+module FunIn5 FunIn50,1
+foo foo6,7
+main main10,11
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun3.hs,58
+module SubFun3 SubFun30,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn3.expected.hs,70
+module FunIn3 FunIn30,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn6.expected.hs,70
+module FunIn6 FunIn60,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/D1.expected.hs,102
+module RmOneParameter.D1 RmOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun2.hs,58
+module SubFun2 SubFun20,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/Offset.hs,97
+module Offset Offset0,1
+bob bob4,5
+bib bib7,8
+bab bab12,13
+foo foo16,17
+fud fud20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LiftInLambda.expected.hs,111
+module LiftToToplevel.LiftInLambda LiftToToplevel.LiftInLambda0,1
+foo foo2,3
+foo foo3,4
+uses uses12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D1A.hs,94
+module LiftToToplevel.D1A LiftToToplevel.D1A0,1
+sumSquares sumSquares5,6
+main main13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn3.hs,112
+module LiftToToplevel.LetIn3 LiftToToplevel.LetIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where1.hs,132
+module LiftToToplevel.Where1 LiftToToplevel.Where10,1
+unpack unpack7,8
+foldDUALNE foldDUALNE9,10
+foldDUALNE foldDUALNE18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Zmapq.hs,125
+module LiftToTopLevel.Zmapq LiftToTopLevel.Zmapq0,1
+zmapQ zmapQ4,5
+downQ downQ8,9
+query query9,10
+leftQ leftQ10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2r.hs,77
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature21,2
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2r.expected.hs,107
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature21,2
+foo foo8,9
+baz:baz16,17
+baz baz17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn2.hs,112
+module LiftToToplevel.LetIn2 LiftToToplevel.LetIn20,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn4.hs,75
+module LiftToToplevel.PatBindIn4 LiftToToplevel.PatBindIn40,1
+f f11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/NoWhere.expected.hs,204
+module LiftToToplevel.NoWhere LiftToToplevel.NoWhere0,1
+liftToTopLevel' liftToTopLevel'2,3
+liftToMod liftToMod13,14
+getRefactRenamed getRefactRenamed15,16
+getRefactRenamed getRefactRenamed16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2.hs,79
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature20,1
+foo foo13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Collapse1.hs,177
+module LiftToTop3evel.Collapse1 LiftToTop3evel.Collapse10,1
+collapse' collapse'2,3
+data Bounds Bounds12,13
+data Bounds = Bounds Bounds12,13
+symbolSize symbolSize13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn2.hs,129
+module LiftToToplevel.WhereIn2 LiftToToplevel.WhereIn20,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+sq sq17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C3.hs,75
+module LiftToToplevel.C3 LiftToToplevel.C30,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D2.hs,75
+module LiftToToplevel.D2 LiftToToplevel.D20,1
+sumSquares sumSquares5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A3.hs,63
+module LiftToToplevel.A3 LiftToToplevel.A30,1
+main main5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn6.hs,116
+module LiftToToplevel.WhereIn6 LiftToToplevel.WhereIn60,1
+sumSquares sumSquares7,8
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D3.hs,90
+module LiftToToplevel.D3 LiftToToplevel.D30,1
+sumSquares sumSquares5,6
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A2.hs,52
+module Main Main0,1
+maim maim4,5
+main main6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature.hs,75
+module LiftToTopLevel.Signature LiftToTopLevel.Signature0,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Zmapq.expected.hs,136
+module LiftToTopLevel.Zmapq LiftToTopLevel.Zmapq0,1
+zmapQ zmapQ4,5
+g g6,7
+downQ downQ9,10
+query query10,11
+leftQ leftQ11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn1.hs,125
+module LiftToToplevel.PatBindIn1 LiftToToplevel.PatBindIn10,1
+main main8,9
+main main9,10
+foo foo11,12
+foo foo12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn7.hs,74
+module LiftToToplevel.WhereIn7 LiftToToplevel.WhereIn70,1
+fun fun9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature3.hs,77
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C2.hs,75
+module LiftToToplevel.C2 LiftToToplevel.C20,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A1.hs,52
+module Main Main0,1
+maim maim4,5
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature4.hs,77
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn2.hs,124
+module LiftToToplevel.PatBindIn2 LiftToToplevel.PatBindIn20,1
+main main7,8
+main main8,9
+foo foo10,11
+foo foo11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature.expected.hs,105
+module LiftToTopLevel.Signature LiftToTopLevel.Signature0,1
+foo foo5,6
+baz baz12,13
+baz baz13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C1.hs,104
+module LiftToToplevel.C1 LiftToToplevel.C10,1
+sumSquares1 sumSquares14,5
+sq sq9,10
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn1.hs,116
+module LiftToToplevel.WhereIn1 LiftToToplevel.WhereIn10,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D1.hs,92
+module LiftToToplevel.D1 LiftToToplevel.D10,1
+sumSquares sumSquares5,6
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn3.hs,120
+module LiftToToplevel.PatBindIn3 LiftToToplevel.PatBindIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature3.expected.hs,107
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+baz baz10,11
+baz baz11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where3.hs,69
+module LiftToToplevel.Where3 LiftToToplevel.Where30,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/NoWhere.hs,177
+module LiftToToplevel.NoWhere LiftToToplevel.NoWhere0,1
+liftToTopLevel' liftToTopLevel'2,3
+getRefactRenamed getRefactRenamed15,16
+getRefactRenamed getRefactRenamed16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn1.hs,113
+module LiftToToplevel.LetIn1 LiftToToplevel.LetIn10,1
+sumSquares sumSquares9,10
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/CaseIn1.hs,73
+module LiftToToplevel.CaseIn1 LiftToToplevel.CaseIn10,1
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Collapse1.expected.hs,206
+module LiftToTop3evel.Collapse1 LiftToTop3evel.Collapse10,1
+collapse' collapse'2,3
+rightOuter rightOuter11,12
+data Bounds Bounds13,14
+data Bounds = Bounds Bounds13,14
+symbolSize symbolSize14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LiftInLambda.hs,94
+module LiftToToplevel.LiftInLambda LiftToToplevel.LiftInLambda0,1
+foo foo2,3
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where2.hs,132
+module LiftToToplevel.Where1 LiftToToplevel.Where10,1
+unpack unpack7,8
+foldDUALNE foldDUALNE9,10
+foldDUALNE foldDUALNE18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where3.expected.hs,82
+module LiftToToplevel.Where3 LiftToToplevel.Where30,1
+foo foo3,4
+bar bar5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/RmDecl3.hs,39
+module RmDecl3 RmDecl30,1
+ff ff3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/TH/Main.hs,85
+module Main Main3,4
+main main11,12
+baz baz22,23
+sillyString sillyString24,25
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/TH/Printf.hs,319
+module TH.Printf TH.Printf3,4
+data Format Format16,17
+data Format = D D16,17
+data Format = D | S S16,17
+data Format = D | S | L L16,17
+parse parse21,22
+parse parse22,23
+gen gen27,28
+gen gen28,29
+pr pr34,35
+pr pr35,36
+silly silly40,41
+silly silly41,42
+silly2 silly243,44
+silly2 silly244,45
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal4/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/main4.hs,30
+main main8,9
+baz baz10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/Foo/Bar.expected.hs,43
+module Foo.Bar Foo.Bar0,1
+baz1 baz12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/main4.expected.hs,30
+main main8,9
+baz baz10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal3/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal3/src/main1.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal3/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal2/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/main1.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/main2.hs,28
+main main6,7
+baz baz8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal1/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal1/src/main.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/cabal1/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Main.expected.hs,28
+main main5,6
+baz baz7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Main.hs,28
+main main5,6
+baz baz7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+bar bar2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Baz.hs,41
+module Foo.Baz Foo.Baz0,1
+bar bar2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Bar.expected.hs,43
+module Foo.Bar Foo.Bar0,1
+bar1 bar12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/Md1a.hs,155
+module MoveDef.Md1a MoveDef.Md1a0,1
+data D D2,3
+data D = A A2,3
+data D = A | B B2,3
+data D = A | B String | CC2,3
+ff ff4,5
+ff ff5,6
+l l7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/Md1.hs,375
+module MoveDef.Md1 MoveDef.Md10,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d5,6
+c,c5,6
+c c6,7
+d d7,8
+tup tup10,11
+h h11,12
+t t12,13
+tup@(tup@13,14
+data D D18,19
+data D = A A18,19
+data D = A | B B18,19
+data D = A | B String | CC18,19
+ff ff20,21
+ff ff21,22
+l l25,26
+dd dd30,31
+zz1 zz134,35
+tlFunc tlFunc38,39
+tlFunc tlFunc39,40
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/PatBind1.hs,54
+module PatBind1 PatBind10,1
+tup@(tup@2,3
+x x4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/MultiFunBind1.hs,78
+module MoveDef.MultiFunBind1 MoveDef.MultiFunBind10,1
+foo foo2,3
+y y5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/Md1b.hs,123
+module MoveDef.Md1b MoveDef.Md1b0,1
+data D D2,3
+data D = A A2,3
+data D = A | CC2,3
+ff ff4,5
+ff ff5,6
+l l9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/Demote.hs,106
+module MoveDef.Demote MoveDef.Demote0,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c c6,7
+d d7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/MoveDef/Md2.hs,376
+module MoveDef.Md2 MoveDef.Md20,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d7,8
+c,c7,8
+c c8,9
+d d9,10
+tup tup12,13
+h h13,14
+t t14,15
+tup@(tup@15,16
+data D D20,21
+data D = A A20,21
+data D = A | B B20,21
+data D = A | B String | CC20,21
+ff ff22,23
+ff ff23,24
+l l27,28
+dd dd32,33
+zz1 zz136,37
+tlFunc tlFunc40,41
+tlFunc tlFunc41,42
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/nightly-2018-05-30/8.4.2/share/x86_64-osx-ghc-8.4.2/HaRe-0.8.4.1/test/testdata/BCppTC.hs,56
+module BCppTC BCppTC8,9
+bob bob10,11
+bob bob12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/hlint-2.1.15/HLint_TypeCheck.hs,166
+module HLint_TypeCheck HLint_TypeCheck2,3
+(=(4,5
+(====>4,5
+_noParen_ _noParen_7,8
+_eval_ _eval_8,9
+main main14,15
+main main15,16
+_test64 _test6418,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/hlint-2.1.15/HLint_QuickCheck.hs,761
+module HLint_QuickCheck(HLint_QuickCheck5,6
+import import17,18
+instance instance25,26
+newtype Dbl Dbl27,28
+newtype Dbl = Dbl Dbl27,28
+newtype NegZero NegZero37,38
+newtype NegZero a = NegZero NegZero37,38
+newtype Nat Nat41,42
+newtype Nat a = Nat Nat41,42
+newtype Compare Compare45,46
+newtype Compare a = Compare Compare45,46
+data Test Test66,67
+data Test a = Test Test66,67
+a a70,71
+class Testable2 Testable273,74
+class Testable2 Testable273,74
+    property2 property274,75
+bad bad84,85
+bad bad85,86
+test test87,88
+test test88,89
+catcher catcher96,97
+catcher catcher97,98
+_noParen_ _noParen_103,104
+_eval_ _eval_104,105
+withMain withMain106,107
+withMain withMain107,108
+main main116,117
+main main117,118
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/hlint-2.1.15/Test.hs,146
+module HLint.Test HLint.Test5,6
+error error7,8
+ignore ignore18,19
+warn warn21,22
+suggest suggest22,23
+lam lam105,106
+dup dup108,109
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn8.hs,144
+module WhereIn8 WhereIn80,1
+sumSquares sumSquares8,9
+sq,anotherFun anotherFun10,11
+sq,sq10,11
+sq sq11,12
+anotherFun anotherFun15,16
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/D2a.hs,103
+module Demote.D2a Demote.D2a0,1
+sumSquares sumSquares4,5
+sq sq7,8
+pow pow9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/LetIn2.hs,96
+module Demote.LetIn2 Demote.LetIn20,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/MultiLeg.hs,198
+module Demote.MultiLeg Demote.MultiLeg0,1
+data Constraint Constraint2,3
+data Constraint = Include Include2,3
+                | Exclude Exclude3,4
+is_excluded is_excluded6,7
+mkr mkr13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/PatBindIn4.hs,178
+module Demote.PatBindIn4 Demote.PatBindIn40,1
+main main8,9
+main main9,10
+foo foo11,12
+foo foo12,13
+tup tup14,15
+h h15,16
+t t16,17
+tup@(tup@17,18
+fun=fun19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn2.hs,129
+module Demote.WhereIn2 Demote.WhereIn20,1
+sumSquares sumSquares9,10
+sq sq12,13
+pow=pow15,16
+anotherFun anotherFun17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/D2.hs,101
+module Demote.D2 Demote.D20,1
+sumSquares sumSquares4,5
+sq sq7,8
+pow pow9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn6.hs,83
+module Demote.WhereIn6 Demote.WhereIn60,1
+fun fun9,10
+addthree addthree12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/D3.hs,101
+module Demote.D3(Demote.D30,1
+sumSquares sumSquares4,5
+sq sq7,8
+pow pow9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/A2.hs,52
+module Main Main0,1
+maim maim4,5
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/PatBindIn1.hs,165
+module Demote.PatBindIn1 Demote.PatBindIn10,1
+main main9,10
+main main10,11
+foo foo12,13
+foo foo13,14
+tup tup15,16
+h h16,17
+t t17,18
+tup@(tup@18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn7.hs,145
+module WhereIn7 WhereIn70,1
+sumSquares sumSquares9,10
+sq,anotherFun anotherFun11,12
+sq,sq11,12
+sq sq12,13
+anotherFun anotherFun16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn3.hs,127
+module Demote.WhereIn3 Demote.WhereIn30,1
+sumSquares sumSquares9,10
+sq sq12,13
+sq sq13,14
+anotherFun anotherFun17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/C2.hs,61
+module Demote.C2 Demote.C20,1
+sumSquares1 sumSquares14,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/A1.hs,52
+module Main Main0,1
+maim maim4,5
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/UsedAtLevel2.expected.hs,598
+module Demote.UsedAtLevel2 Demote.UsedAtLevel21,2
+foo foo3,4
+foo foo4,5
+data HsBind HsBind26,27
+data HsBind a = FunBind FunBind26,27
+               | PatBind PatBind27,28
+data Name Name28,29
+data Name = N N28,29
+data Located Located29,30
+data Located a = L L29,30
+data MatchGroup MatchGroup30,31
+data MatchGroup a = MatchGroup MatchGroup30,31
+type LMatch LMatch31,32
+type LMatch a a31,32
+data Match Match32,33
+data Match a = Match Match32,33
+data Renamer Renamer33,34
+data Renamer = RenamerRenamer33,34
+type LHsBind LHsBind34,35
+declaredPns declaredPns35,36
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn4.hs,128
+module Demote.WhereIn4 Demote.WhereIn40,1
+sumSquares sumSquares10,11
+sq:sq13,14
+sq sq14,15
+anotherFun anotherFun16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/C1.hs,61
+module Demote.C1 Demote.C10,1
+sumSquares1 sumSquares14,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn1.hs,129
+module Demote.WhereIn1 Demote.WhereIn10,1
+sumSquares sumSquares9,10
+sq sq11,12
+pow=pow14,15
+anotherFun anotherFun16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/D1.hs,102
+module Demote.D1 Demote.D10,1
+sumSquares sumSquares5,6
+sq sq8,9
+pow pow10,11
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/UsedAtLevel.expected.hs,596
+module Demote.UsedAtLevel Demote.UsedAtLevel1,2
+foo foo3,4
+foo foo4,5
+data HsBind HsBind21,22
+data HsBind a = FunBind FunBind21,22
+               | PatBind PatBind22,23
+data Name Name23,24
+data Name = N N23,24
+data Located Located24,25
+data Located a = L L24,25
+data MatchGroup MatchGroup25,26
+data MatchGroup a = MatchGroup MatchGroup25,26
+type LMatch LMatch26,27
+type LMatch a a26,27
+data Match Match27,28
+data Match a = Match Match27,28
+data Renamer Renamer28,29
+data Renamer = RenamerRenamer28,29
+type LHsBind LHsBind29,30
+declaredPns declaredPns30,31
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/WhereIn5.hs,116
+module Demote.WhereIn5 Demote.WhereIn50,1
+sumSquares sumSquares9,10
+pow=pow13,14
+anotherFun anotherFun15,16
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/LetIn1.hs,97
+module Demote.LetIn1 Demote.LetIn10,1
+sumSquares sumSquares9,10
+anotherFun anotherFun15,16
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/CaseIn1.hs,84
+module Demote.CaseIn1 Demote.CaseIn10,1
+main main11,12
+addthree addthree15,16
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/MultiLeg2.hs,198
+module Demote.MultiLeg Demote.MultiLeg0,1
+data Constraint Constraint2,3
+data Constraint = Include Include2,3
+                | Exclude Exclude3,4
+is_excluded is_excluded6,7
+mkr mkr13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/UsedAtLevel2.hs,598
+module Demote.UsedAtLevel2 Demote.UsedAtLevel21,2
+foo foo3,4
+foo foo4,5
+data HsBind HsBind26,27
+data HsBind a = FunBind FunBind26,27
+               | PatBind PatBind27,28
+data Name Name28,29
+data Name = N N28,29
+data Located Located29,30
+data Located a = L L29,30
+data MatchGroup MatchGroup30,31
+data MatchGroup a = MatchGroup MatchGroup30,31
+type LMatch LMatch31,32
+type LMatch a a31,32
+data Match Match32,33
+data Match a = Match Match32,33
+data Renamer Renamer33,34
+data Renamer = RenamerRenamer33,34
+type LHsBind LHsBind34,35
+declaredPns declaredPns35,36
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Demote/UsedAtLevel.hs,596
+module Demote.UsedAtLevel Demote.UsedAtLevel1,2
+foo foo3,4
+foo foo4,5
+data HsBind HsBind21,22
+data HsBind a = FunBind FunBind21,22
+               | PatBind PatBind22,23
+data Name Name23,24
+data Name = N N23,24
+data Located Located24,25
+data Located a = L L24,25
+data MatchGroup MatchGroup25,26
+data MatchGroup a = MatchGroup MatchGroup25,26
+type LMatch LMatch26,27
+type LMatch a a26,27
+data Match Match27,28
+data Match a = Match Match27,28
+data Renamer Renamer28,29
+data Renamer = RenamerRenamer28,29
+type LHsBind LHsBind29,30
+declaredPns declaredPns30,31
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/SwapArgs/B.hs,287
+module SwapArgs.B SwapArgs.B0,1
+foo foo6,7
+bob bob8,9
+bob bob9,10
+foo' foo'16,17
+main main20,21
+main main21,22
+mary mary24,25
+mary mary25,26
+h h27,28
+data D D29,30
+data D = A A29,30
+data D = A | B B29,30
+data D = A | B String | CC29,30
+subdecl subdecl31,32
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/B.hs,42
+module B B0,1
+bob bob3,4
+bob bob4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Visible/Simple.hs,154
+module Visible.Simple Visible.Simple0,1
+params params3,4
+params params4,5
+param2 param27,8
+param2 param28,9
+data B B12,13
+data B = B B12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LocToName.hs,61
+module LocToName LocToName0,1
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A1.expected.hs,87
+module Main Main0,1
+sumSq sumSq6,7
+maim maim8,9
+maim maim9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn1.expected.hs,104
+module FunIn1 FunIn10,1
+foo foo5,6
+foo foo6,7
+foo_y foo_y9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn4.expected.hs,56
+module FunIn4 FunIn40,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/PatIn1.expected.hs,103
+module PatIn1 PatIn10,1
+foo foo5,6
+foo foo6,7
+foo_x foo_x8,9
+main main10,11
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D3.expected.hs,136
+module AddOneParameter.D3(AddOneParameter.D30,1
+sumSquares sumSquares5,6
+sumSquares_y sumSquares_y8,9
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/Nested.hs,112
+module AddOneParameter.Nested(AddOneParameter.Nested0,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn2.hs,56
+module FunIn2 FunIn20,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/PatIn2.hs,83
+module PatIn2 PatIn20,1
+foo foo5,6
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D2.hs,105
+module AddOneParameter.D2 AddOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A3.hs,67
+module Main Main0,1
+maim maim4,5
+maim maim5,6
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn6.hs,88
+module AddOneParameter.FunIn6 AddOneParameter.FunIn60,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/MultiFun1.expected.hs,64
+module MultiFun1 MultiFun10,1
+foo foo8,9
+foo_x foo_x11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D3.hs,103
+module AddOneParameter.D3(AddOneParameter.D30,1
+sumSquares sumSquares5,6
+sq sq8,9
+pow pow10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A2.hs,109
+module Main Main0,1
+sumSq sumSq6,7
+sq_f_2 sq_f_28,9
+maim maim10,11
+maim maim11,12
+main main13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn2.expected.hs,56
+module FunIn2 FunIn20,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A2.expected.hs,109
+module Main Main0,1
+sumSq sumSq6,7
+sq_f_2 sq_f_28,9
+maim maim10,11
+maim maim11,12
+main main13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn3.hs,56
+module FunIn3 FunIn30,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/C2.hs,98
+module AddOneParameter.C2 AddOneParameter.C20,1
+sumSquares1 sumSquares14,5
+sq_f_1 sq_f_18,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A1.hs,87
+module Main Main0,1
+sumSq sumSq6,7
+maim maim8,9
+maim maim9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn4.hs,56
+module FunIn4 FunIn40,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D2.expected.hs,122
+module AddOneParameter.D2 AddOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+sq_f sq_f12,13
+pow pow14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/C2.expected.hs,98
+module AddOneParameter.C2 AddOneParameter.C20,1
+sumSquares1 sumSquares14,5
+sq_f_1 sq_f_18,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/Nested.expected.hs,145
+module AddOneParameter.Nested(AddOneParameter.Nested0,1
+sumSquares sumSquares5,6
+sumSquares_y sumSquares_y9,10
+sq sq11,12
+pow pow13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/C1.hs,79
+module AddOneParameter.C1 AddOneParameter.C10,1
+sumSquares1 sumSquares14,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn1.hs,85
+module FunIn1 FunIn10,1
+foo foo5,6
+foo foo6,7
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/PatIn1.hs,83
+module PatIn1 PatIn10,1
+foo foo5,6
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D1.hs,104
+module AddOneParameter.D1 AddOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/MultiFun1.hs,45
+module MultiFun1 MultiFun10,1
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn5.hs,85
+module FunIn5 FunIn50,1
+foo foo6,7
+foo foo7,8
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn3.expected.hs,56
+module FunIn3 FunIn30,1
+main:main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/A3.expected.hs,67
+module Main Main0,1
+maim maim4,5
+maim maim5,6
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/FunIn6.expected.hs,88
+module AddOneParameter.FunIn6 AddOneParameter.FunIn60,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/D1.expected.hs,121
+module AddOneParameter.D1 AddOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+sq_f sq_f11,12
+pow pow13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddOneParameter/C1.expected.hs,79
+module AddOneParameter.C1 AddOneParameter.C10,1
+sumSquares1 sumSquares14,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmDecl4.hs,39
+module RmDecl4 RmDecl41,2
+ff ff4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/Binders.hs,449
+module FreeAndDeclared.Binders FreeAndDeclared.Binders2,3
+findNewPName findNewPName7,8
+findNewPName findNewPName8,9
+data Renamer Renamer17,18
+data Renamer = RenamerRenamer17,18
+somethingStaged somethingStaged18,19
+data Name Name19,20
+data Name = NameCon NameCon19,20
+occNameString occNameString20,21
+getOccName getOccName21,22
+data RenamedSource RenamedSource22,23
+data RenamedSource = RNSRNS22,23
+gfromJust gfromJust23,24
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/Declare.hs,428
+module FreeAndDeclared.Declare FreeAndDeclared.Declare0,1
+toplevel toplevel4,5
+toplevel toplevel5,6
+c,d d7,8
+c,c7,8
+c c8,9
+d d9,10
+tup tup12,13
+h h13,14
+t t14,15
+tup@(tup@15,16
+data D D17,18
+data D = A A17,18
+data D = A | B B17,18
+data D = A | B String | CC17,18
+unD unD20,21
+data F F24,25
+data F = G G24,25
+data F = G | (:(24,25
+unF unF26,27
+main main29,30
+mkT mkT33,34
+ff ff35,36
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/Declare1.hs,417
+module FreeAndDeclared.Declare1 FreeAndDeclared.Declare10,1
+toplevel toplevel4,5
+toplevel toplevel5,6
+c,d d7,8
+c,c7,8
+c c8,9
+d d9,10
+tup tup12,13
+h h13,14
+t t14,15
+tup@(tup@15,16
+data D D17,18
+data D = A A17,18
+data D = A | B B17,18
+data D = A | B String | CC17,18
+unD unD20,21
+data F F24,25
+data F = G G24,25
+data F = G | (:(24,25
+unF unF26,27
+main main29,30
+mkT mkT33,34
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/DeclareRec.hs,197
+module FreeAndDeclared.DeclareRec FreeAndDeclared.DeclareRec0,1
+data R R2,3
+data R = RCon RCon2,3
+data R = RCon { r1 r12,3
+data R = RCon { r1 :: Int, r2 r22,3
+unR unR4,5
+unR2 unR26,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/DeclareS.hs,71
+module FreeAndDeclared.DeclareS FreeAndDeclared.DeclareS0,1
+c c5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/DeclareTypes.hs,568
+module FreeAndDeclared.DeclareTypes FreeAndDeclared.DeclareTypes1,2
+data family family7,8
+data instance instance10,11
+data instance XList Char = XCons XCons10,11
+data instance XList Char = XCons !Char !(XList Char) | XNilXNil10,11
+data instance instance13,14
+data instance XList () = XListUnit XListUnit13,14
+data X X18,19
+data X = Y Y18,19
+data X = Y Integer | Z Z18,19
+data X = Y Integer | Z | W W18,19
+type Foo Foo20,21
+class Bar Bar22,23
+class Bar Bar22,23
+  type BarVar BarVar23,24
+  data BarData BarData24,25
+  doBar doBar26,27
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/FreeAndDeclared/Declare2.hs,417
+module FreeAndDeclared.Declare2 FreeAndDeclared.Declare20,1
+toplevel toplevel4,5
+toplevel toplevel5,6
+c,d d7,8
+c,c7,8
+c c8,9
+d d9,10
+tup tup12,13
+h h13,14
+t t14,15
+tup@(tup@15,16
+data D D17,18
+data D = A A17,18
+data D = A | B B17,18
+data D = A | B String | CC17,18
+unD unD20,21
+data F F24,25
+data F = G G24,25
+data F = G | (:(24,25
+unF unF26,27
+main main29,30
+mkT mkT33,34
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/C.hs,29
+module C C0,1
+baz baz3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/LetIn3.hs,108
+module LiftOneLevel.LetIn3 LiftOneLevel.LetIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/WhereIn8.hs,84
+module LiftOneLevel.WhereIn8 LiftOneLevel.WhereIn80,1
+--lift --lift2,3
+g g3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/LetIn2.hs,109
+module LiftOneLevel.LetIn2 LiftOneLevel.LetIn20,1
+sumSquares sumSquares9,10
+anotherFun anotherFun15,16
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/WhereIn2.hs,125
+module LiftOneLevel.WhereIn2 LiftOneLevel.WhereIn20,1
+sumSquares sumSquares5,6
+anotherFun anotherFun12,13
+sq sq14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/C3.hs,71
+module LiftOneLevel.C3 LiftOneLevel.C30,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/D2.hs,71
+module LiftOneLevel.D2 LiftOneLevel.D20,1
+sumSquares sumSquares5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/A3.hs,52
+module Main Main0,1
+maim maim5,6
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/WhereIn6.hs,112
+module LiftOneLevel.WhereIn6 LiftOneLevel.WhereIn60,1
+sumSquares sumSquares7,8
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/D3.hs,86
+module LiftOneLevel.D3 LiftOneLevel.D30,1
+sumSquares sumSquares5,6
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/A2.hs,67
+module Main Main0,1
+maim maim4,5
+maim maim5,6
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/WhereIn7.hs,70
+module LiftOneLevel.WhereIn7 LiftOneLevel.WhereIn70,1
+fun fun9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/C2.hs,71
+module LiftOneLevel.C2 LiftOneLevel.C20,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/A1.hs,68
+module Main Main0,1
+maim maim4,5
+maim maim5,6
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/PatBindIn2.hs,120
+module LiftOneLevel.PatBindIn2 LiftOneLevel.PatBindIn20,1
+main main7,8
+main main8,9
+foo foo10,11
+foo foo11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/C1.hs,99
+module LiftOneLevel.C1 LiftOneLevel.C10,1
+sumSquares1 sumSquares14,5
+sq sq8,9
+pow pow10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/WhereIn1.hs,112
+module LiftOneLevel.WhereIn1 LiftOneLevel.WhereIn10,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/D1.hs,88
+module LiftOneLevel.D1 LiftOneLevel.D10,1
+sumSquares sumSquares5,6
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/PatBindIn3.hs,90
+module PatBindIn3 PatBindIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/LetIn1.hs,109
+module LiftOneLevel.LetIn1 LiftOneLevel.LetIn10,1
+sumSquares sumSquares9,10
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftOneLevel/CaseIn1.hs,69
+module LiftOneLevel.CaseIn1 LiftOneLevel.CaseIn10,1
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ConflictExport.hs,106
+module Renaming.ConflictExport Renaming.ConflictExport0,1
+myFringe:myFringe6,7
+myFringe myFringe7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Constructor.expected.hs,169
+module Constructor Constructor0,1
+data MyType MyType4,5
+data MyType = MyType MyType4,5
+data MyType = MyType Int | YourType YourType4,5
+foo foo6,7
+foo foo7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Field2_TokOut.hs,162
+module Field2 Field20,1
+data Point Point4,5
+data Point = Pt Pt4,5
+data Point = Pt {pointx, pointy pointy4,5
+absPoint absPoint6,7
+absPoint absPoint7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ClassIn3.hs,269
+module ClassIn3 ClassIn30,1
+class Reversable Reversable6,7
+class Reversable Reversable6,7
+  myreverse myreverse7,8
+  myreverse myreverse8,9
+instance instance10,11
+data Foo Foo13,14
+data Foo = Boo Boo13,14
+data Foo = Boo | MooMoo13,14
+main main20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Field4.hs,287
+module Field4 Field40,1
+data Vtree Vtree4,5
+data Vtree a = Vleaf Vleaf4,5
+data Vtree a = Vleaf {value1:value14,5
+               Vnode Vnode5,6
+               Vnode {value2:value25,6
+               Vnode {value2::a, left,right right5,6
+fringe fringe7,8
+fringe fringe8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Utils.hs,64
+module Layout.Utils Layout.Utils0,1
+foo foo2,3
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/WildCard.hs,174
+module Renaming.WildCard Renaming.WildCard2,3
+taggedPlugins taggedPlugins5,6
+taggedPlugins taggedPlugins6,7
+data Plugin Plugin8,9
+data Plugin  a = Plugin Plugin8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ClassIn2.hs,269
+module ClassIn2 ClassIn20,1
+class Reversable Reversable6,7
+class Reversable Reversable6,7
+  myreverse myreverse7,8
+  myreverse myreverse8,9
+instance instance10,11
+data Foo Foo13,14
+data Foo = Boo Boo13,14
+data Foo = Boo | MooMoo13,14
+main main20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ExportedTypeClient.expected.hs,41
+foo foo4,5
+foo foo5,6
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ExportedType.hs,113
+module Renaming.ExportedType Renaming.ExportedType0,1
+data MyType MyType3,4
+data MyType = MyType MyType3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Constructor3.hs,258
+module ConstructorIn3 ConstructorIn30,1
+data BTree BTree8,9
+data BTree a = Empty Empty8,9
+data BTree a = Empty | T T8,9
+buildtree buildtree11,12
+buildtree buildtree12,13
+insert insert15,16
+insert insert16,17
+main main21,22
+main main22,23
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn4_TokOut.hs,81
+module IdIn4 IdIn40,1
+x=x9,10
+foo=foo11,12
+bar bar13,14
+main=main17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A3_TokOut.hs,48
+module A3 A30,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Field1.hs,162
+module Field1 Field10,1
+data Point Point4,5
+data Point = Pt Pt4,5
+data Point = Pt {pointx, pointy pointy4,5
+absPoint absPoint6,7
+absPoint absPoint7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Constructor3_TokOut.hs,258
+module ConstructorIn3 ConstructorIn30,1
+data BTree BTree8,9
+data BTree b = Empty Empty8,9
+data BTree b = Empty | T T8,9
+buildtree buildtree11,12
+buildtree buildtree12,13
+insert insert15,16
+insert insert16,17
+main main21,22
+main main22,23
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/QualServer.expected.hs,85
+module Renaming.QualServerRenaming.QualServer0,1
+foo1 foo110,11
+foo1 foo111,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/B3.hs,138
+module Renaming.B3 Renaming.B30,1
+instance instance6,7
+myFringe:myFringe10,11
+myFringe myFringe11,12
+sumSquares sumSquares14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D6.hs,305
+module Renaming.D6 Renaming.D60,1
+data Tree Tree2,3
+data Tree a = Leaf Leaf2,3
+data Tree a = Leaf a | Branch Branch2,3
+fringe fringe4,5
+fringe fringe5,6
+class SameOrNot SameOrNot8,9
+class SameOrNot SameOrNot8,9
+   isSame isSame9,10
+   isNotSame isNotSame10,11
+instance instance12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn4.hs,81
+module IdIn4 IdIn40,1
+x=x9,10
+foo=foo11,12
+bar bar13,14
+main=main17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ConstructorIn1.hs,258
+module ConstructorIn1 ConstructorIn10,1
+data BTree BTree7,8
+data BTree a = Empty Empty7,8
+data BTree a = Empty | T T7,8
+buildtree buildtree10,11
+buildtree buildtree11,12
+insert insert14,15
+insert insert15,16
+main main20,21
+main main21,22
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C3.hs,106
+module Renaming.C3 Renaming.C30,1
+instance instance4,5
+myFringe:myFringe8,9
+myFringe myFringe9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D2.hs,339
+module Renaming.D2 Renaming.D20,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+class SameOrNot SameOrNot11,12
+class SameOrNot SameOrNot11,12
+   isSame isSame12,13
+   isNotSame isNotSame13,14
+instance instance15,16
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A3.hs,69
+module Main Main0,1
+maim maim6,7
+maim maim7,8
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/LayoutIn2.hs,87
+module LayoutIn2 LayoutIn20,1
+silly silly6,7
+silly silly7,8
+--There --There8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C7Main.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn3_TokOut.hs,81
+module IdIn3 IdIn30,1
+x=x9,10
+foo=foo11,12
+bar bar13,14
+main=main17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Utils.expected.hs,64
+module Layout.Utils Layout.Utils0,1
+foo foo2,3
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C7.hs,82
+module Renaming.C7(Renaming.C70,1
+myFringe:myFringe4,5
+myFringe myFringe5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D3.hs,339
+module Renaming.D3 Renaming.D30,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+class SameOrNot SameOrNot11,12
+class SameOrNot SameOrNot11,12
+   isSame isSame12,13
+   isNotSame isNotSame13,14
+instance instance15,16
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A2.hs,69
+module Main Main0,1
+maim maim6,7
+maim maim7,8
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/RenameInExportedType2.hs,153
+module Renaming.RenameInExportedTypeRenaming.RenameInExportedType0,1
+data MyType MyType5,6
+data MyType = MT MT5,6
+data MyType = MT Int | NTNT5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/LayoutIn3.hs,45
+module LayoutIn3 LayoutIn30,1
+foo foo6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ConflictExport_TokOut.hs,88
+module ConflictExport ConflictExport0,1
+myFringe:myFringe6,7
+myFringe myFringe7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn1.hs,82
+module IdIn1 IdIn10,1
+x=x10,11
+foo=foo12,13
+bar bar14,15
+main=main18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Qualifier_TokOut.hs,76
+module Qualifier Qualifier0,1
+sumSquares sumSquares8,9
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ExportedType.expected.hs,116
+module Renaming.ExportedType Renaming.ExportedType0,1
+data NewType NewType3,4
+data NewType = MyType MyType3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Main.hs,66
+module Main Main0,1
+sumSquares sumSquares4,5
+main=main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/B2.hs,138
+module Renaming.B2 Renaming.B20,1
+instance instance6,7
+myFringe:myFringe10,11
+myFringe myFringe11,12
+sumSquares sumSquares14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn5_TokOut.hs,81
+module IdIn5 IdIn50,1
+x=x9,10
+foo=foo11,12
+bar bar13,14
+main=main16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A6.hs,48
+module A6 A60,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D7.hs,165
+module Renaming.D7 Renaming.D70,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A2_TokOut.hs,48
+module A2 A20,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn5.hs,82
+module IdIn5 IdIn50,1
+x=x12,13
+foo=foo14,15
+bar bar16,17
+main=main19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/QualClient.expected.hs,66
+module Main Main0,1
+baz baz8,9
+baz baz9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C2.hs,106
+module Renaming.C2 Renaming.C20,1
+instance instance4,5
+myFringe:myFringe8,9
+myFringe myFringe9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A1.hs,69
+module Main Main0,1
+maim maim6,7
+maim maim7,8
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/B5.hs,138
+module Renaming.B5 Renaming.B50,1
+instance instance6,7
+myFringe:myFringe10,11
+myFringe myFringe11,12
+sumSquares sumSquares14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/RenameInExportedType.expected.hs,123
+module Renaming.RenameInExportedTypeRenaming.RenameInExportedType0,1
+data NewType NewType5,6
+data NewType = MT MT5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Constructor.hs,166
+module Constructor Constructor0,1
+data MyType MyType4,5
+data MyType = AType AType4,5
+data MyType = AType Int | YourType YourType4,5
+foo foo6,7
+foo foo7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn2.hs,82
+module IdIn2 IdIn20,1
+x=x10,11
+foo=foo12,13
+bar bar14,15
+main=main18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Main2.hs,28
+main main3,4
+bar bar5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/RenameInExportedType.hs,120
+module Renaming.RenameInExportedTypeRenaming.RenameInExportedType0,1
+data MyType MyType5,6
+data MyType = MT MT5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C5.hs,129
+module Renaming.C5 Renaming.C50,1
+instance instance4,5
+myFringe:myFringe8,9
+myFringe myFringe9,10
+mySumSq mySumSq12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/B1.hs,138
+module Renaming.B1 Renaming.B10,1
+instance instance6,7
+myFringe:myFringe10,11
+myFringe myFringe11,12
+sumSquares sumSquares14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D4.hs,339
+module Renaming.D4 Renaming.D40,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+class SameOrNot SameOrNot11,12
+class SameOrNot SameOrNot11,12
+   isSame isSame12,13
+   isNotSame isNotSame13,14
+instance instance15,16
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A5.hs,69
+module Main Main0,1
+maim maim6,7
+maim maim7,8
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/LayoutIn4.hs,47
+module LayoutIn4 LayoutIn40,1
+main main6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/RenameInExportedType2.expected.hs,163
+module Renaming.RenameInExportedTypeRenaming.RenameInExportedType0,1
+data MyType MyType5,6
+data MyType = MT MT5,6
+data MyType = MT Int | NewTypeNewType5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ConstructorIn3.hs,258
+module ConstructorIn3 ConstructorIn30,1
+data BTree BTree8,9
+data BTree a = Empty Empty8,9
+data BTree a = Empty | T T8,9
+buildtree buildtree11,12
+buildtree buildtree12,13
+insert insert15,16
+insert insert16,17
+main main21,22
+main main22,23
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C1.hs,106
+module Renaming.C1 Renaming.C10,1
+instance instance4,5
+myFringe:myFringe8,9
+myFringe myFringe9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D5.hs,339
+module Renaming.D5 Renaming.D50,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+class SameOrNot SameOrNot11,12
+class SameOrNot SameOrNot11,12
+   isSame isSame12,13
+   isNotSame isNotSame13,14
+instance instance15,16
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/A4.hs,69
+module Main Main0,1
+maim maim6,7
+maim maim7,8
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ConstructorIn2.hs,258
+module ConstructorIn2 ConstructorIn20,1
+data BTree BTree7,8
+data BTree a = Empty Empty7,8
+data BTree a = Empty | T T7,8
+buildtree buildtree10,11
+buildtree buildtree11,12
+insert insert14,15
+insert insert15,16
+main main20,21
+main main21,22
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Main_TokOut.hs,66
+module Main Main0,1
+sumSquares sumSquares4,5
+main=main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D1.hs,339
+module Renaming.D1 Renaming.D10,1
+data Tree Tree5,6
+data Tree a = Leaf Leaf5,6
+data Tree a = Leaf a | Branch Branch5,6
+fringe fringe7,8
+fringe fringe8,9
+class SameOrNot SameOrNot11,12
+class SameOrNot SameOrNot11,12
+   isSame isSame12,13
+   isNotSame isNotSame13,14
+instance instance15,16
+sumSquares sumSquares19,20
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/B4.hs,138
+module Renaming.B4 Renaming.B40,1
+instance instance6,7
+myFringe:myFringe10,11
+myFringe myFringe11,12
+sumSquares sumSquares14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/LayoutIn1.hs,59
+module LayoutIn1 LayoutIn10,1
+sumSquares sumSquares6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/IdIn3.hs,81
+module IdIn3 IdIn30,1
+x=x9,10
+foo=foo11,12
+bar bar13,14
+main=main17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Qualifier.hs,76
+module Qualifier Qualifier0,1
+sumSquares sumSquares8,9
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/QualServer.hs,81
+module Renaming.QualServerRenaming.QualServer0,1
+foo foo10,11
+foo foo11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/C4.hs,106
+module Renaming.C4 Renaming.C40,1
+instance instance4,5
+myFringe:myFringe8,9
+myFringe myFringe9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ClassIn1.hs,269
+module ClassIn1 ClassIn10,1
+class Reversable Reversable6,7
+class Reversable Reversable6,7
+  myreverse myreverse7,8
+  myreverse myreverse8,9
+instance instance10,11
+data Foo Foo13,14
+data Foo = Boo Boo13,14
+data Foo = Boo | MooMoo13,14
+main main20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Field2.hs,162
+module Field2 Field20,1
+data Point Point4,5
+data Point = Pt Pt4,5
+data Point = Pt {pointx, pointy pointy4,5
+absPoint absPoint6,7
+absPoint absPoint7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ExportedTypeClient.hs,41
+foo foo4,5
+foo foo5,6
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/ClassIn3_TokOut.hs,269
+module ClassIn3 ClassIn30,1
+class Reversable Reversable6,7
+class Reversable Reversable6,7
+  myreverse myreverse7,8
+  myreverse myreverse8,9
+instance instance10,11
+data Foo Foo13,14
+data Foo = Boo Boo13,14
+data Foo = Boo | MooMoo13,14
+main main20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/D6_TokOut.hs,287
+module D6 D60,1
+data Tree Tree2,3
+data Tree a = Leaf Leaf2,3
+data Tree a = Leaf a | Branch Branch2,3
+fringe fringe4,5
+fringe fringe5,6
+class SameOrNot SameOrNot8,9
+class SameOrNot SameOrNot8,9
+   isSame isSame9,10
+   isNotSame isNotSame10,11
+instance instance12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/Field3.hs,180
+module Field3 Field30,1
+data Point Point6,7
+data Point = Pt Pt6,7
+data Point = Pt {pointx, pointy pointy6,7
+absPoint absPoint8,9
+absPoint absPoint9,10
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/WildCard.expected.hs,178
+module Renaming.WildCard Renaming.WildCard2,3
+taggedPlugins2 taggedPlugins25,6
+taggedPlugins2 taggedPlugins26,7
+data Plugin Plugin8,9
+data Plugin  a = Plugin Plugin8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/QualClient.hs,66
+module Main Main0,1
+baz baz8,9
+baz baz9,10
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Renaming/InScopes.hs,94
+module Renaming.InScopes Renaming.InScopes0,1
+f f5,6
+f1 f17,8
+f2 f211,12
+f3 f317,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/BCpp.hs,65
+module Main Main3,4
+bob bob5,6
+bob bob7,8
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/ScopeAndQual.hs,133
+module ScopeAndQual ScopeAndQual0,1
+main main5,6
+main main6,7
+sum sum8,9
+sumSquares sumSquares10,11
+mySumSq mySumSq12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/Simplest.hs,49
+module Simplest Simplest0,1
+simple simple3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/TyClDecls.hs,348
+ module TypeUtils.TyClDEcls TypeUtils.TyClDEcls2,3
+data family family6,7
+data instance instance9,10
+data instance XList Char = XCons XCons9,10
+data instance XList Char = XCons !Char !(XList Char) | XNilXNil9,10
+data Foo Foo11,12
+data Foo = Foo Foo11,12
+type Foo2 Foo213,14
+class Bar Bar15,16
+class Bar Bar15,16
+  bar bar16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/B.hs,275
+module TypeUtils.B TypeUtils.B0,1
+foo foo6,7
+bob bob8,9
+foo' foo'13,14
+main main17,18
+main main18,19
+mary mary21,22
+mary mary22,23
+h h24,25
+data D D26,27
+data D = A A26,27
+data D = A | B B26,27
+data D = A | B String | CC26,27
+subdecl subdecl28,29
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/C.hs,49
+module TypeUtils.C TypeUtils.C0,1
+baz baz3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/LayoutLet1.hs,47
+module LayoutLet1 LayoutLet10,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/LayoutLet2.hs,47
+module LayoutLet2 LayoutLet20,1
+foo foo6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/S.hs,156
+module TypeUtils.S TypeUtils.S0,1
+foo foo3,4
+data D D5,6
+data D = A A5,6
+data D = A | B B5,6
+data D = A | B String | CC5,6
+subdecl subdecl7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/VisiblePNs.hs,723
+module TypeUtils.VisiblePNs TypeUtils.VisiblePNs1,2
+main main30,31
+main main31,32
+spec spec34,35
+spec spec35,36
+ww ww76,77
+xx xx77,78
+yy yy78,79
+zz zz79,80
+runRefactGhcState runRefactGhcState80,81
+parsedFileGhc parsedFileGhc81,82
+getTypecheckedModule getTypecheckedModule82,83
+fetchOrigToks fetchOrigToks83,84
+data PosToken PosToken84,85
+data PosToken = PTPT84,85
+data ParseResult ParseResult85,86
+data ParseResult = PRPR85,86
+loadModuleGraphGhc loadModuleGraphGhc86,87
+getLocatedStart getLocatedStart87,88
+getLocatedEnd getLocatedEnd88,89
+getModuleGhc getModuleGhc89,90
+getModuleName=getModuleName90,91
+parsedFileBGhc parsedFileBGhc98,99
+parsedFileBGhc parsedFileBGhc99,100
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/JustImports.hs,36
+module JustImports JustImports0,1
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/SelectivelyImports.hs,61
+module SelectivelyImports SelectivelyImports0,1
+__ __4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/Qualified.hs,15
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/Empty.hs,24
+module Empty Empty0,1
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TypeUtils/TypeSigs.hs,175
+module TypeSigs TypeSigs0,1
+sq,anotherFun anotherFun2,3
+sq,sq2,3
+sq sq3,4
+anotherFun anotherFun6,7
+a,b,c:c8,9
+a,b,b8,9
+a,a8,9
+a a10,11
+b b11,12
+c c12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Class.hs,114
+module Layout.Class Layout.Class0,1
+class Foo Foo2,3
+class Foo Foo2,3
+  foo foo3,4
+instance instance5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Move1.hs,399
+module Layout.Move1 Layout.Move10,1
+data Located Located2,3
+data Located a = L L2,3
+type Name Name3,4
+hsBinds hsBinds4,5
+divideDecls divideDecls5,6
+definingDeclsNames definingDeclsNames6,7
+nub nub7,8
+definedPNs definedPNs8,9
+logm logm9,10
+showGhc showGhc10,11
+pnsNeedRenaming pnsNeedRenaming11,12
+liftToTopLevel' liftToTopLevel'16,17
+liftToTopLevel' liftToTopLevel'17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Comments1.hs,88
+module Layout.Comments1 Layout.Comments10,1
+aFun aFun2,3
+anotherFun anotherFun5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/ForAll.hs,66
+module Layout.ForAll Layout.ForAll1,2
+foo foo5,6
+foo foo6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Do1.hs,228
+module Layout.Do1 Layout.Do10,1
+getCurrentModuleGraph getCurrentModuleGraph2,3
+topSortModuleGraph topSortModuleGraph3,4
+sortCurrentModuleGraph sortCurrentModuleGraph6,7
+sortCurrentModuleGraph sortCurrentModuleGraph7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Default.hs,55
+module Layout.Default Layout.Default0,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/FromMd1.hs,160
+module Layout.FromMd1 Layout.FromMd10,1
+data D D2,3
+data D = A A2,3
+data D = A | B B2,3
+data D = A | B String | CC2,3
+ff ff4,5
+ff ff5,6
+x x9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Foreign.hs,57
+module Layout.Foreign Layout.Foreign1,2
+foo foo11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Bare.hs,15
+main main2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/LetStmt.hs,55
+module Layout.LetStmt Layout.LetStmt2,3
+foo foo4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/CaseExpr.hs,57
+module Layout.CaseExpr Layout.CaseExpr2,3
+foo foo4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Lift.hs,56
+module Layout.Lift Layout.Lift0,1
+ff ff2,3
+x x6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/PArr.hs,66
+module Layout.PArr Layout.PArr2,3
+blah blah4,5
+foo foo21,22
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/HsDo.hs,394
+module Layout.HsDo Layout.HsDo0,1
+moduleGraphNodes moduleGraphNodes4,5
+graphFromEdgedVertices graphFromEdgedVertices13,14
+nodes nodes14,15
+lookup_node lookup_node15,16
+type NodeMap NodeMap16,17
+type NodeMap a a16,17
+data SummaryNode SummaryNode17,18
+data SummaryNode = SummaryNodeSummaryNode17,18
+moduleName moduleName18,19
+ms_mod ms_mod19,20
+ms_hsc_src ms_hsc_src20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/TH.hs,96
+module Layout.TH Layout.TH2,3
+emptyShow emptyShow6,7
+emptyShow emptyShow7,8
+foo foo9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/LetExpr.hs,55
+module Layout.LetExpr Layout.LetExpr2,3
+foo foo4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Arrow.hs,384
+module Layout.Arrow Layout.Arrow1,2
+addA addA6,7
+addA addA7,8
+newtype Circuit Circuit12,13
+newtype Circuit a b = Circuit Circuit12,13
+newtype Circuit a b = Circuit { unCircuit unCircuit12,13
+instance instance14,15
+accum accum30,31
+accum accum31,32
+accum' accum'36,37
+accum' accum'37,38
+total total39,40
+total total40,41
+mean3 mean342,43
+mean3 mean343,44
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Derive.hs,72
+module Layout.Derive Layout.Derive1,2
+data B B5,6
+data B = B B5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Where.hs,81
+module LiftToToplevel.Where LiftToToplevel.Where0,1
+anotherFun anotherFun2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/PatBind.hs,88
+module Layout.PatBind Layout.PatBind0,1
+tup tup3,4
+h h4,5
+t t5,6
+tup@(tup@6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/Where2.hs,64
+module Layout.Where2 Layout.Where20,1
+tup@(tup@2,3
+x x7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Layout/D5Simple.hs,71
+module Layout.D5Simple Layout.D5Simple0,1
+sumSquares sumSquares2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Cons.hs,120
+data Foo Foo2,3
+data Foo = Ff Ff2,3
+data Foo = Ff {fooA fooA2,3
+xx xx4,5
+instance instance6,7
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/NoMod.hs,86
+foo foo2,3
+bob bob4,5
+foo' foo'7,8
+main main11,12
+mary mary14,15
+h h16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/DupDef/Dd2.hs,56
+module DupDef.Dd2 DupDef.Dd20,1
+f2 f25,6
+mm mm7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/DupDef/Dd3.hs,56
+module DupDef.Dd3 DupDef.Dd30,1
+f2 f25,6
+mm mm7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/DupDef/Dd2Main.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/DupDef/Dd1.hs,303
+module DupDef.Dd1 DupDef.Dd10,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d5,6
+c,c5,6
+c c6,7
+d d7,8
+tup tup10,11
+h h11,12
+t t12,13
+tup@(tup@13,14
+data D D18,19
+data D = A A18,19
+data D = A | B B18,19
+data D = A | B String | CC18,19
+ff ff20,21
+l l24,25
+dd dd29,30
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/DupDef/Dd3Main.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Monadification/M1.hs,75
+module M1 M10,1
+f f2,3
+f f3,4
+g g6,7
+g g7,8
+h h9,10
+h h10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Monadification/M2.hs,219
+module M1 M10,1
+data Expr Expr3,4
+data Expr = Var Var3,4
+          | N N4,5
+          | Add Add5,6
+          | Sub Sub6,7
+          | Assign Assign7,8
+type Env Env10,11
+eval eval12,13
+eval eval14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddParams1.hs,58
+module AddParams1 AddParams10,1
+sq sq2,3
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/M.hs,37
+module Main Main0,1
+main main4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Simple/A.hs,29
+module A A0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/M2.hs,29
+module M2 M20,1
+m2 m24,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TokenTest.hs,95
+module Main Main0,1
+bob bob4,5
+bib bib7,8
+bab bab12,13
+foo foo18,19
+main main22,23
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/AddParams2.hs,57
+module AddParams2 AddParams20,1
+collapse collapse2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/M3.hs,29
+module M3 M30,1
+m3 m34,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/S1.hs,29
+module S1 S10,1
+s1 s12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Exports.hs,42
+module ExportsExports0,1
+down down8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/F.hs,43
+module F F0,1
+foo foo3,4
+bob bob9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/CExpected.hs,44
+module C C0,1
+foo foo4,5
+bob bob10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/B.hs,102
+module B B0,1
+foo foo3,4
+bob bob5,6
+foo' foo'8,9
+main main12,13
+mary mary15,16
+h h17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/C.hs,44
+module C C0,1
+foo foo4,5
+bob bob10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/FExpected.hs,43
+module F F0,1
+foo foo3,4
+bob bob9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/Foo.hs,15
+main main2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/BSimple.hs,41
+module BSimple BSimple0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/BSimpleExpected.hs,41
+module BSimple BSimple0,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/D.hs,44
+module C C0,1
+foo foo4,5
+bob bob12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/E.hs,44
+module E E0,1
+foo foo4,5
+bob bob14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Case/FooExpected.hs,15
+main main2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/A1.expected.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun1.hs,58
+module SubFun1 SubFun10,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn1.expected.hs,85
+module FunIn1 FunIn10,1
+foo foo6,7
+foo foo7,8
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun2.expected.hs,58
+module SubFun2 SubFun20,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn4.expected.hs,70
+module FunIn4 FunIn40,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2.hs,117
+module FunIn2 FunIn20,1
+foo,inc inc6,7
+foo,foo6,7
+foo foo7,8
+inc inc9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/D2.hs,103
+module RmOneParameter.D2 RmOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn6.hs,70
+module FunIn6 FunIn60,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/MultiFun1.expected.hs,45
+module MultiFun1 MultiFun10,1
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn7.expected.hs,74
+module FunIn7 FunIn70,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun1.expected.hs,58
+module SubFun1 SubFun10,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/A2.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn7.hs,74
+module FunIn7 FunIn70,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2.expected.hs,115
+module FunIn2 FunIn20,1
+inc inc6,7
+foo foo8,9
+foo foo9,10
+inc inc11,12
+main main13,14
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/A2.expected.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2a.hs,119
+module FunIn2a FunIn2a0,1
+inc,foo foo6,7
+inc,inc6,7
+foo foo7,8
+inc inc9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn3.hs,70
+module FunIn3 FunIn30,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/A1.hs,69
+module Main Main0,1
+sumSq sumSq4,5
+maim maim6,7
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn4.hs,70
+module FunIn4 FunIn40,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/D2.expected.hs,103
+module RmOneParameter.D2 RmOneParameter.D20,1
+sumSquares sumSquares6,7
+sq sq10,11
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn2a.expected.hs,117
+module FunIn2a FunIn2a0,1
+inc inc6,7
+foo foo8,9
+foo foo9,10
+inc inc11,12
+main main13,14
+main main14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn0.hs,74
+module FunIn0 FunIn00,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn5.expected.hs,73
+module FunIn5 FunIn50,1
+foo foo6,7
+main main10,11
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn1.hs,85
+module FunIn1 FunIn10,1
+foo foo6,7
+foo foo7,8
+main main9,10
+main main10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun3.expected.hs,58
+module SubFun3 SubFun30,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn0.expected.hs,74
+module FunIn0 FunIn00,1
+foo foo9,10
+main main11,12
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/D1.hs,102
+module RmOneParameter.D1 RmOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/MultiFun1.hs,45
+module MultiFun1 MultiFun10,1
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn5.hs,73
+module FunIn5 FunIn50,1
+foo foo6,7
+main main10,11
+main main11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun3.hs,58
+module SubFun3 SubFun30,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn3.expected.hs,70
+module FunIn3 FunIn30,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/FunIn6.expected.hs,70
+module FunIn6 FunIn60,1
+foo foo6,7
+main main8,9
+main main9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/D1.expected.hs,102
+module RmOneParameter.D1 RmOneParameter.D10,1
+sumSquares sumSquares5,6
+sq sq9,10
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmOneParameter/SubFun2.hs,58
+module SubFun2 SubFun20,1
+main main6,7
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/Offset.hs,97
+module Offset Offset0,1
+bob bob4,5
+bib bib7,8
+bab bab12,13
+foo foo16,17
+fud fud20,21
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LiftInLambda.expected.hs,111
+module LiftToToplevel.LiftInLambda LiftToToplevel.LiftInLambda0,1
+foo foo2,3
+foo foo3,4
+uses uses12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D1A.hs,94
+module LiftToToplevel.D1A LiftToToplevel.D1A0,1
+sumSquares sumSquares5,6
+main main13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn3.hs,112
+module LiftToToplevel.LetIn3 LiftToToplevel.LetIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where1.hs,132
+module LiftToToplevel.Where1 LiftToToplevel.Where10,1
+unpack unpack7,8
+foldDUALNE foldDUALNE9,10
+foldDUALNE foldDUALNE18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Zmapq.hs,125
+module LiftToTopLevel.Zmapq LiftToTopLevel.Zmapq0,1
+zmapQ zmapQ4,5
+downQ downQ8,9
+query query9,10
+leftQ leftQ10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2r.hs,77
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature21,2
+foo foo8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2r.expected.hs,107
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature21,2
+foo foo8,9
+baz:baz16,17
+baz baz17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn2.hs,112
+module LiftToToplevel.LetIn2 LiftToToplevel.LetIn20,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn4.hs,75
+module LiftToToplevel.PatBindIn4 LiftToToplevel.PatBindIn40,1
+f f11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/NoWhere.expected.hs,204
+module LiftToToplevel.NoWhere LiftToToplevel.NoWhere0,1
+liftToTopLevel' liftToTopLevel'2,3
+liftToMod liftToMod13,14
+getRefactRenamed getRefactRenamed15,16
+getRefactRenamed getRefactRenamed16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature2.hs,79
+module LiftToTopLevel.Signature2 LiftToTopLevel.Signature20,1
+foo foo13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Collapse1.hs,177
+module LiftToTop3evel.Collapse1 LiftToTop3evel.Collapse10,1
+collapse' collapse'2,3
+data Bounds Bounds12,13
+data Bounds = Bounds Bounds12,13
+symbolSize symbolSize13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn2.hs,129
+module LiftToToplevel.WhereIn2 LiftToToplevel.WhereIn20,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+sq sq17,18
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C3.hs,75
+module LiftToToplevel.C3 LiftToToplevel.C30,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D2.hs,75
+module LiftToToplevel.D2 LiftToToplevel.D20,1
+sumSquares sumSquares5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A3.hs,63
+module LiftToToplevel.A3 LiftToToplevel.A30,1
+main main5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn6.hs,116
+module LiftToToplevel.WhereIn6 LiftToToplevel.WhereIn60,1
+sumSquares sumSquares7,8
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D3.hs,90
+module LiftToToplevel.D3 LiftToToplevel.D30,1
+sumSquares sumSquares5,6
+pow pow11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A2.hs,52
+module Main Main0,1
+maim maim4,5
+main main6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature.hs,75
+module LiftToTopLevel.Signature LiftToTopLevel.Signature0,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Zmapq.expected.hs,136
+module LiftToTopLevel.Zmapq LiftToTopLevel.Zmapq0,1
+zmapQ zmapQ4,5
+g g6,7
+downQ downQ9,10
+query query10,11
+leftQ leftQ11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn1.hs,125
+module LiftToToplevel.PatBindIn1 LiftToToplevel.PatBindIn10,1
+main main8,9
+main main9,10
+foo foo11,12
+foo foo12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn7.hs,74
+module LiftToToplevel.WhereIn7 LiftToToplevel.WhereIn70,1
+fun fun9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature3.hs,77
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C2.hs,75
+module LiftToToplevel.C2 LiftToToplevel.C20,1
+anotherFun anotherFun4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/A1.hs,52
+module Main Main0,1
+maim maim4,5
+main main8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature4.hs,77
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn2.hs,124
+module LiftToToplevel.PatBindIn2 LiftToToplevel.PatBindIn20,1
+main main7,8
+main main8,9
+foo foo10,11
+foo foo11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature.expected.hs,105
+module LiftToTopLevel.Signature LiftToTopLevel.Signature0,1
+foo foo5,6
+baz baz12,13
+baz baz13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/C1.hs,104
+module LiftToToplevel.C1 LiftToToplevel.C10,1
+sumSquares1 sumSquares14,5
+sq sq9,10
+pow pow12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/WhereIn1.hs,116
+module LiftToToplevel.WhereIn1 LiftToToplevel.WhereIn10,1
+sumSquares sumSquares8,9
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/D1.hs,92
+module LiftToToplevel.D1 LiftToToplevel.D10,1
+sumSquares sumSquares5,6
+main main12,13
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/PatBindIn3.hs,120
+module LiftToToplevel.PatBindIn3 LiftToToplevel.PatBindIn30,1
+sumSquares sumSquares8,9
+anotherFun anotherFun13,14
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Signature3.expected.hs,107
+module LiftToTopLevel.Signature3 LiftToTopLevel.Signature30,1
+foo foo5,6
+baz baz10,11
+baz baz11,12
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where3.hs,69
+module LiftToToplevel.Where3 LiftToToplevel.Where30,1
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/NoWhere.hs,177
+module LiftToToplevel.NoWhere LiftToToplevel.NoWhere0,1
+liftToTopLevel' liftToTopLevel'2,3
+getRefactRenamed getRefactRenamed15,16
+getRefactRenamed getRefactRenamed16,17
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LetIn1.hs,113
+module LiftToToplevel.LetIn1 LiftToToplevel.LetIn10,1
+sumSquares sumSquares9,10
+anotherFun anotherFun14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/CaseIn1.hs,73
+module LiftToToplevel.CaseIn1 LiftToToplevel.CaseIn10,1
+main main7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Collapse1.expected.hs,206
+module LiftToTop3evel.Collapse1 LiftToTop3evel.Collapse10,1
+collapse' collapse'2,3
+rightOuter rightOuter11,12
+data Bounds Bounds13,14
+data Bounds = Bounds Bounds13,14
+symbolSize symbolSize14,15
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/LiftInLambda.hs,94
+module LiftToToplevel.LiftInLambda LiftToToplevel.LiftInLambda0,1
+foo foo2,3
+foo foo3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where2.hs,132
+module LiftToToplevel.Where1 LiftToToplevel.Where10,1
+unpack unpack7,8
+foldDUALNE foldDUALNE9,10
+foldDUALNE foldDUALNE18,19
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/LiftToToplevel/Where3.expected.hs,82
+module LiftToToplevel.Where3 LiftToToplevel.Where30,1
+foo foo3,4
+bar bar5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/RmDecl3.hs,39
+module RmDecl3 RmDecl30,1
+ff ff3,4
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TH/Main.hs,85
+module Main Main3,4
+main main11,12
+baz baz22,23
+sillyString sillyString24,25
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/TH/Printf.hs,319
+module TH.Printf TH.Printf3,4
+data Format Format16,17
+data Format = D D16,17
+data Format = D | S S16,17
+data Format = D | S | L L16,17
+parse parse21,22
+parse parse22,23
+gen gen27,28
+gen gen28,29
+pr pr34,35
+pr pr35,36
+silly silly40,41
+silly silly41,42
+silly2 silly243,44
+silly2 silly244,45
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal4/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/main4.hs,30
+main main8,9
+baz baz10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/Foo/Bar.expected.hs,43
+module Foo.Bar Foo.Bar0,1
+baz1 baz12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal4/src/main4.expected.hs,30
+main main8,9
+baz baz10,11
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal3/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal3/src/main1.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal3/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal2/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/main1.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/main2.hs,28
+main main6,7
+baz baz8,9
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal2/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal1/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal1/src/main.hs,28
+main main4,5
+baz baz6,7
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/cabal1/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+baz baz2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/Setup.hs,15
+main main1,2
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Main.expected.hs,28
+main main5,6
+baz baz7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Main.hs,28
+main main5,6
+baz baz7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Bar.hs,41
+module Foo.Bar Foo.Bar0,1
+bar bar2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Baz.hs,41
+module Foo.Baz Foo.Baz0,1
+bar bar2,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/cabal/foo/src/Foo/Bar.expected.hs,43
+module Foo.Bar Foo.Bar0,1
+bar1 bar12,3
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/Md1a.hs,155
+module MoveDef.Md1a MoveDef.Md1a0,1
+data D D2,3
+data D = A A2,3
+data D = A | B B2,3
+data D = A | B String | CC2,3
+ff ff4,5
+ff ff5,6
+l l7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/Md1.hs,375
+module MoveDef.Md1 MoveDef.Md10,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d5,6
+c,c5,6
+c c6,7
+d d7,8
+tup tup10,11
+h h11,12
+t t12,13
+tup@(tup@13,14
+data D D18,19
+data D = A A18,19
+data D = A | B B18,19
+data D = A | B String | CC18,19
+ff ff20,21
+ff ff21,22
+l l25,26
+dd dd30,31
+zz1 zz134,35
+tlFunc tlFunc38,39
+tlFunc tlFunc39,40
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/PatBind1.hs,54
+module PatBind1 PatBind10,1
+tup@(tup@2,3
+x x4,5
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/MultiFunBind1.hs,78
+module MoveDef.MultiFunBind1 MoveDef.MultiFunBind10,1
+foo foo2,3
+y y5,6
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/Md1b.hs,123
+module MoveDef.Md1b MoveDef.Md1b0,1
+data D D2,3
+data D = A A2,3
+data D = A | CC2,3
+ff ff4,5
+ff ff5,6
+l l9,10
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/Demote.hs,106
+module MoveDef.Demote MoveDef.Demote0,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c c6,7
+d d7,8
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/MoveDef/Md2.hs,376
+module MoveDef.Md2 MoveDef.Md20,1
+toplevel toplevel2,3
+toplevel toplevel3,4
+c,d d7,8
+c,c7,8
+c c8,9
+d d9,10
+tup tup12,13
+h h13,14
+t t14,15
+tup@(tup@15,16
+data D D20,21
+data D = A A20,21
+data D = A | B B20,21
+data D = A | B String | CC20,21
+ff ff22,23
+ff ff23,24
+l l27,28
+dd dd32,33
+zz1 zz136,37
+tlFunc tlFunc40,41
+tlFunc tlFunc41,42
+
+./haskell-ide-engine/.stack-work/install/x86_64-osx/lts-12.26/8.4.4/share/x86_64-osx-ghc-8.4.4/HaRe-0.8.4.1/test/testdata/BCppTC.hs,56
+module BCppTC BCppTC8,9
+bob bob10,11
+bob bob12,13
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/hie-test-utils/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/hie/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/hie-wrapper/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/hie-test-utils/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/hie/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.4.0.1/build/hie-wrapper/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.0.2/build/hie-test-utils/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.0.2/build/hie/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.0.2/build/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.0.2/build/hie-wrapper/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/hie-test-utils/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/hie/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/.stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/hie-wrapper/autogen/Paths_haskell_ide_engine.hs,1265
+module Paths_haskell_ide_engine Paths_haskell_ide_engine3,4
+catchIO catchIO17,18
+catchIO catchIO19,20
+catchIO catchIO23,24
+catchIO catchIO25,26
+version version27,28
+version version28,29
+bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir sysconfdir29,30
+bindir, libdir, dynlibdir, datadir, libexecdir,libexecdir29,30
+bindir, libdir, dynlibdir, datadir,datadir29,30
+bindir, libdir, dynlibdir,dynlibdir29,30
+bindir, libdir,libdir29,30
+bindir,bindir29,30
+bindir bindir31,32
+libdir libdir32,33
+dynlibdir dynlibdir33,34
+datadir datadir34,35
+libexecdir libexecdir35,36
+sysconfdir sysconfdir36,37
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir getSysconfDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir,getLibexecDir38,39
+getBinDir, getLibDir, getDynLibDir, getDataDir,getDataDir38,39
+getBinDir, getLibDir, getDynLibDir,getDynLibDir38,39
+getBinDir, getLibDir,getLibDir38,39
+getBinDir,getBinDir38,39
+getBinDir getBinDir39,40
+getLibDir getLibDir40,41
+getDynLibDir getDynLibDir41,42
+getDataDir getDataDir42,43
+getLibexecDir getLibexecDir43,44
+getSysconfDir getSysconfDir44,45
+getDataFileName getDataFileName46,47
+getDataFileName getDataFileName47,48
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Transport/JsonStdio.hs,616
+module Haskell.Ide.Engine.Transport.JsonStdioHaskell.Ide.Engine.Transport.JsonStdio9,10
+jsonStdioTransport jsonStdioTransport43,44
+jsonStdioTransport jsonStdioTransport44,45
+data ReactorInput ReactorInput51,52
+  ReactorInputReactorInput52,53
+  { reqId reqId53,54
+  , plugin plugin54,55
+  , command command55,56
+  , context context56,57
+  , arg arg57,58
+data ReactorOutput ReactorOutput60,61
+data ReactorOutput = ReactorOutputReactorOutput60,61
+  { _resId _resId61,62
+  , _response _response62,63
+run run65,66
+run run66,67
+getNextReq getNextReq107,108
+getNextReq getNextReq108,109
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Transport/LspStdio.hs,1982
+module Haskell.Ide.Engine.Transport.LspStdioHaskell.Ide.Engine.Transport.LspStdio12,13
+import import27,28
+lspStdioTransport lspStdioTransport82,83
+data DiagnosticsRequest DiagnosticsRequest90,91
+data DiagnosticsRequest = DiagnosticsRequestDiagnosticsRequest90,91
+  { trigger trigger91,92
+  , trackingNumber trackingNumber94,95
+  , file file97,98
+  , documentVersion documentVersion100,101
+newtype MostRecent MostRecent106,107
+newtype MostRecent a = MostRecent MostRecent106,107
+instance instance108,109
+run run117,118
+type ReactorInputReactorInput189,190
+configVal configVal195,196
+configVal configVal196,197
+getPrefixAtPos getPrefixAtPos203,204
+getPrefixAtPos getPrefixAtPos205,206
+mapFileFromVfs mapFileFromVfs233,234
+mapFileFromVfs mapFileFromVfs236,237
+updatePositionMap updatePositionMap254,255
+updatePositionMap updatePositionMap255,256
+publishDiagnostics publishDiagnostics333,334
+publishDiagnostics publishDiagnostics335,336
+flushDiagnosticsBySource flushDiagnosticsBySource341,342
+flushDiagnosticsBySource flushDiagnosticsBySource343,344
+nextLspReqId nextLspReqId349,350
+nextLspReqId nextLspReqId351,352
+sendErrorLog sendErrorLog357,358
+sendErrorLog sendErrorLog359,360
+reactor reactor372,373
+reactor reactor373,374
+getFormattingProvider getFormattingProvider797,798
+getFormattingProvider getFormattingProvider798,799
+queueDiagnosticsRequest queueDiagnosticsRequest826,827
+requestDiagnostics requestDiagnostics832,833
+requestDiagnostics requestDiagnostics833,834
+requestDiagnosticsNormal requestDiagnosticsNormal886,887
+requestDiagnosticsNormal requestDiagnosticsNormal887,888
+reqParams reqParams935,936
+reqParams reqParams939,940
+syncOptions syncOptions945,946
+syncOptions syncOptions946,947
+hieOptions hieOptions954,955
+hieOptions hieOptions955,956
+hieHandlers hieHandlers968,969
+hieHandlers hieHandlers969,970
+passHandler passHandler996,997
+passHandler passHandler997,998
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/HieExtras.hs,2875
+module Haskell.Ide.Engine.Plugin.HieExtrasHaskell.Ide.Engine.Plugin.HieExtras5,6
+getDynFlags getDynFlags75,76
+getDynFlags getDynFlags76,77
+newtype NameMapData NameMapData80,81
+newtype NameMapData = NMDNMD80,81
+  { inverseNameMap inverseNameMap81,82
+invert invert85,86
+invert invert86,87
+instance instance88,89
+data CompItem CompItem95,96
+data CompItem = CICI95,96
+  { origName origName96,97
+  , importedFrom importedFrom97,98
+  , thingType thingType98,99
+  , label label99,100
+occNameToComKind occNameToComKind108,109
+occNameToComKind occNameToComKind109,110
+type HoogleQuery HoogleQuery115,116
+mkQuery mkQuery117,118
+mkQuery mkQuery118,119
+mkCompl mkCompl121,122
+mkCompl mkCompl122,123
+mkModCompl mkModCompl158,159
+mkModCompl mkModCompl159,160
+mkExtCompl mkExtCompl165,166
+mkExtCompl mkExtCompl166,167
+mkPragmaCompl mkPragmaCompl171,172
+mkPragmaCompl mkPragmaCompl172,173
+safeTyThingId safeTyThingId177,178
+safeTyThingId safeTyThingId178,179
+type QualCompls QualCompls183,184
+data PosPrefixInfo PosPrefixInfo186,187
+data PosPrefixInfo = PosPrefixInfoPosPrefixInfo186,187
+  { fullLine fullLine187,188
+  , prefixModule prefixModule190,191
+  , prefixText prefixText195,196
+  , cursorPos cursorPos199,200
+data CachedCompletions CachedCompletions203,204
+data CachedCompletions = CCCC203,204
+  { allModNamesAsNS allModNamesAsNS204,205
+  , unqualCompls unqualCompls205,206
+  , qualCompls qualCompls206,207
+  , importableModules importableModules207,208
+  , cachedExtensions cachedExtensions208,209
+newtype WithSnippets WithSnippets332,333
+newtype WithSnippets = WithSnippets WithSnippets332,333
+getCompletions getCompletions335,336
+getCompletions getCompletions336,337
+getTypeForName getTypeForName462,463
+getTypeForName getTypeForName463,464
+getSymbolsAtPoint getSymbolsAtPoint475,476
+getSymbolsAtPoint getSymbolsAtPoint476,477
+symbolFromTypecheckedModule symbolFromTypecheckedModule482,483
+getReferencesInDoc getReferencesInDoc491,492
+getReferencesInDoc getReferencesInDoc492,493
+showName showName525,526
+showName showName526,527
+getModule getModule531,532
+getModule getModule532,533
+findDef findDef541,542
+findDef findDef542,543
+data HarePoint HarePoint598,599
+  HP HP599,600
+  HP { hpFile hpFile599,600
+     , hpPos hpPos600,601
+customOptions customOptions603,604
+customOptions customOptions604,605
+runGhcModCommand runGhcModCommand613,614
+runGhcModCommand runGhcModCommand615,616
+splitCaseCmd splitCaseCmd624,625
+splitCaseCmd splitCaseCmd625,626
+splitCaseCmd' splitCaseCmd'627,628
+splitCaseCmd' splitCaseCmd'628,629
+stripAutoGenerated stripAutoGenerated684,685
+stripAutoGenerated stripAutoGenerated685,686
+stripPrefix stripPrefix694,695
+stripPrefix stripPrefix695,696
+prefixes prefixes703,704
+prefixes prefixes704,705
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Haddock.hs,1318
+module Haskell.Ide.Engine.Plugin.Haddock Haskell.Ide.Engine.Plugin.Haddock6,7
+haddockDescriptor haddockDescriptor39,40
+haddockDescriptor haddockDescriptor40,41
+lookupHaddock lookupHaddock53,54
+lookupHaddock lookupHaddock54,55
+lookupHtmls lookupHtmls56,57
+lookupHtmls lookupHtmls57,58
+lookupDocHtmlForModule lookupDocHtmlForModule59,60
+lookupDocHtmlForModule lookupDocHtmlForModule60,61
+lookupSrcHtmlForModule lookupSrcHtmlForModule63,64
+lookupSrcHtmlForModule lookupSrcHtmlForModule64,65
+lookupHtmlForModule lookupHtmlForModule67,68
+lookupHtmlForModule lookupHtmlForModule68,69
+nameCacheFromGhcMonad nameCacheFromGhcMonad78,79
+nameCacheFromGhcMonad nameCacheFromGhcMonad79,80
+runInLightGhc runInLightGhc88,89
+runInLightGhc runInLightGhc89,90
+nameCacheFromIdeM nameCacheFromIdeM96,97
+nameCacheFromIdeM nameCacheFromIdeM97,98
+getDocsForName getDocsForName102,103
+getDocsForName getDocsForName103,104
+getDocsWithType getDocsWithType138,139
+getDocsWithType getDocsWithType139,140
+prettyprintType prettyprintType150,151
+prettyprintType prettyprintType151,152
+renderDocs renderDocs157,158
+renderDocs renderDocs158,159
+renderMarkDown renderMarkDown160,161
+renderMarkDown renderMarkDown161,162
+hoverProvider hoverProvider205,206
+hoverProvider hoverProvider206,207
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/HsImport.hs,644
+module Haskell.Ide.Engine.Plugin.HsImport Haskell.Ide.Engine.Plugin.HsImport4,5
+hsimportDescriptor hsimportDescriptor33,34
+hsimportDescriptor hsimportDescriptor34,35
+data ImportParams ImportParams46,47
+data ImportParams = ImportParamsImportParams46,47
+  { file file47,48
+  , moduleToImport moduleToImport48,49
+importCmd importCmd52,53
+importCmd importCmd53,54
+importModule importModule55,56
+importModule importModule56,57
+codeActionProvider codeActionProvider101,102
+codeActionProvider codeActionProvider102,103
+extractImportableTerm extractImportableTerm134,135
+extractImportableTerm extractImportableTerm135,136
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Example2.hs,816
+module Haskell.Ide.Engine.Plugin.Example2 Haskell.Ide.Engine.Plugin.Example25,6
+example2Descriptor example2Descriptor25,26
+example2Descriptor example2Descriptor26,27
+sayHelloCmd sayHelloCmd45,46
+sayHelloCmd sayHelloCmd46,47
+sayHelloToCmd sayHelloToCmd48,49
+sayHelloToCmd sayHelloToCmd49,50
+sayHello sayHello55,56
+sayHello sayHello56,57
+sayHelloTo sayHelloTo58,59
+sayHelloTo sayHelloTo59,60
+diagnosticProvider diagnosticProvider63,64
+diagnosticProvider diagnosticProvider64,65
+data TodoParams TodoParams78,79
+data TodoParams = TodoParamsTodoParams78,79
+  { file file79,80
+  , range range80,81
+todoCmd todoCmd84,85
+todoCmd todoCmd85,86
+makeTodo makeTodo87,88
+makeTodo makeTodo88,89
+codeActionProvider codeActionProvider102,103
+codeActionProvider codeActionProvider103,104
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/ApplyRefact.hs,2014
+module Haskell.Ide.Engine.Plugin.ApplyRefact Haskell.Ide.Engine.Plugin.ApplyRefact4,5
+type HintTitle HintTitle33,34
+applyRefactDescriptor applyRefactDescriptor35,36
+applyRefactDescriptor applyRefactDescriptor36,37
+data ApplyOneParams ApplyOneParams54,55
+data ApplyOneParams = AOPAOP54,55
+  { file file55,56
+  , start_pos start_pos56,57
+  , hintTitle hintTitle58,59
+data OneHint OneHint61,62
+data OneHint = OneHintOneHint61,62
+  { oneHintPos oneHintPos62,63
+  , oneHintTitle oneHintTitle63,64
+applyOneCmd applyOneCmd66,67
+applyOneCmd applyOneCmd67,68
+applyOneCmd' applyOneCmd'70,71
+applyOneCmd' applyOneCmd'71,72
+applyAllCmd applyAllCmd84,85
+applyAllCmd applyAllCmd85,86
+applyAllCmd' applyAllCmd'88,89
+applyAllCmd' applyAllCmd'89,90
+lintCmd lintCmd100,101
+lintCmd lintCmd101,102
+lintCmd' lintCmd'105,106
+lintCmd' lintCmd'106,107
+runLintCmd runLintCmd116,117
+runLintCmd runLintCmd117,118
+parseErrorToDiagnostic parseErrorToDiagnostic123,124
+parseErrorToDiagnostic parseErrorToDiagnostic124,125
+bimapExceptT bimapExceptT152,153
+bimapExceptT bimapExceptT153,154
+stripIgnores stripIgnores160,161
+stripIgnores stripIgnores161,162
+hintToDiagnostic hintToDiagnostic167,168
+hintToDiagnostic hintToDiagnostic168,169
+idea2Message idea2Message180,181
+idea2Message idea2Message181,182
+hintSeverityMap hintSeverityMap194,195
+hintSeverityMap hintSeverityMap195,196
+srcLoc2Range srcLoc2Range202,203
+srcLoc2Range srcLoc2Range203,204
+ss2Range ss2Range210,211
+ss2Range ss2Range211,212
+applyHint applyHint218,219
+applyHint applyHint219,220
+getIdeas getIdeas245,246
+getIdeas getIdeas246,247
+filterIdeas filterIdeas253,254
+filterIdeas filterIdeas254,255
+hlintOpts hlintOpts260,261
+hlintOpts hlintOpts261,262
+runHlint runHlint267,268
+runHlint runHlint268,269
+showParseError showParseError274,275
+showParseError showParseError275,276
+codeActionProvider codeActionProvider280,281
+codeActionProvider codeActionProvider281,282
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Base.hs,822
+module Haskell.Ide.Engine.Plugin.Base Haskell.Ide.Engine.Plugin.Base6,7
+baseDescriptor baseDescriptor31,32
+baseDescriptor baseDescriptor32,33
+versionCmd versionCmd51,52
+versionCmd versionCmd52,53
+pluginsCmd pluginsCmd54,55
+pluginsCmd pluginsCmd55,56
+commandsCmd commandsCmd58,59
+commandsCmd commandsCmd59,60
+commandDetailCmd commandDetailCmd69,70
+commandDetailCmd commandDetailCmd70,71
+version version88,89
+version version89,90
+hieGhcDisplayVersion hieGhcDisplayVersion103,104
+hieGhcDisplayVersion hieGhcDisplayVersion104,105
+getProjectGhcVersion getProjectGhcVersion106,107
+getProjectGhcVersion getProjectGhcVersion107,108
+hieGhcVersion hieGhcVersion131,132
+hieGhcVersion hieGhcVersion132,133
+checkCabalInstall checkCabalInstall136,137
+checkCabalInstall checkCabalInstall137,138
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Brittany.hs,625
+module Haskell.Ide.Engine.Plugin.Brittany Haskell.Ide.Engine.Plugin.Brittany3,4
+data FormatParams FormatParams22,23
+data FormatParams = FormatParams FormatParams22,23
+brittanyDescriptor brittanyDescriptor25,26
+brittanyDescriptor brittanyDescriptor26,27
+provider provider38,39
+provider provider39,40
+normalize normalize62,63
+normalize normalize63,64
+getConfFile getConfFile67,68
+getConfFile getConfFile68,69
+runBrittany runBrittany70,71
+runBrittany runBrittany74,75
+fromMaybeT fromMaybeT88,89
+fromMaybeT fromMaybeT89,90
+opt opt91,92
+opt opt92,93
+showErr showErr94,95
+showErr showErr95,96
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Hoogle.hs,1457
+module Haskell.Ide.Engine.Plugin.Hoogle Haskell.Ide.Engine.Plugin.Hoogle2,3
+hoogleDescriptor hoogleDescriptor23,24
+hoogleDescriptor hoogleDescriptor24,25
+data HoogleError HoogleError44,45
+data HoogleError = NoDb NoDb44,45
+data HoogleError = NoDb | NoResults NoResults44,45
+newtype HoogleDb HoogleDb46,47
+newtype HoogleDb = HoogleDb HoogleDb46,47
+hoogleErrorToIdeError hoogleErrorToIdeError48,49
+hoogleErrorToIdeError hoogleErrorToIdeError49,50
+instance instance54,55
+initializeHoogleDb initializeHoogleDb57,58
+initializeHoogleDb initializeHoogleDb58,59
+infoCmd infoCmd69,70
+infoCmd infoCmd70,71
+infoCmd' infoCmd'76,77
+infoCmd' infoCmd'77,78
+infoCmdFancyRender infoCmdFancyRender85,86
+infoCmdFancyRender infoCmdFancyRender86,87
+renderTarget renderTarget94,95
+renderTarget renderTarget95,96
+searchModules searchModules116,117
+searchModules searchModules117,118
+searchPackages searchPackages119,120
+searchPackages searchPackages120,121
+searchTargets searchTargets122,123
+searchTargets searchTargets123,124
+lookupCmd lookupCmd132,133
+lookupCmd lookupCmd133,134
+lookupCmd' lookupCmd'139,140
+lookupCmd' lookupCmd'140,141
+runHoogleQuery runHoogleQuery147,148
+runHoogleQuery runHoogleQuery148,149
+searchHoogle searchHoogle153,154
+searchHoogle searchHoogle154,155
+docRules docRules158,159
+docRules docRules159,160
+getDocsForName getDocsForName169,170
+getDocsForName getDocsForName170,171
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/HaRe.hs,2139
+module Haskell.Ide.Engine.Plugin.HaRe Haskell.Ide.Engine.Plugin.HaRe6,7
+hareDescriptor hareDescriptor41,42
+hareDescriptor hareDescriptor42,43
+data HarePointWithText HarePointWithText79,80
+  HPT HPT80,81
+  HPT { hptFile hptFile80,81
+      , hptPos hptPos81,82
+      , hptText hptText82,83
+instance instance85,86
+data HareRange HareRange90,91
+  HR HR91,92
+  HR { hrFile hrFile91,92
+     , hrStartPos hrStartPos92,93
+     , hrEndPos hrEndPos93,94
+demoteCmd demoteCmd103,104
+demoteCmd demoteCmd104,105
+demoteCmd' demoteCmd'107,108
+demoteCmd' demoteCmd'108,109
+dupdefCmd dupdefCmd116,117
+dupdefCmd dupdefCmd117,118
+dupdefCmd' dupdefCmd'120,121
+dupdefCmd' dupdefCmd'121,122
+iftocaseCmd iftocaseCmd129,130
+iftocaseCmd iftocaseCmd130,131
+iftocaseCmd' iftocaseCmd'133,134
+iftocaseCmd' iftocaseCmd'134,135
+liftonelevelCmd liftonelevelCmd142,143
+liftonelevelCmd liftonelevelCmd143,144
+liftonelevelCmd' liftonelevelCmd'146,147
+liftonelevelCmd' liftonelevelCmd'147,148
+lifttotoplevelCmd lifttotoplevelCmd155,156
+lifttotoplevelCmd lifttotoplevelCmd156,157
+lifttotoplevelCmd' lifttotoplevelCmd'159,160
+lifttotoplevelCmd' lifttotoplevelCmd'160,161
+renameCmd renameCmd168,169
+renameCmd renameCmd169,170
+renameCmd' renameCmd'172,173
+renameCmd' renameCmd'173,174
+deleteDefCmd deleteDefCmd181,182
+deleteDefCmd deleteDefCmd182,183
+deleteDefCmd' deleteDefCmd'185,186
+deleteDefCmd' deleteDefCmd'186,187
+genApplicativeCommand genApplicativeCommand194,195
+genApplicativeCommand genApplicativeCommand195,196
+genApplicativeCommand' genApplicativeCommand'198,199
+genApplicativeCommand' genApplicativeCommand'199,200
+getRefactorResult getRefactorResult206,207
+getRefactorResult getRefactorResult207,208
+makeRefactorResult makeRefactorResult211,212
+makeRefactorResult makeRefactorResult212,213
+runHareCommand runHareCommand226,227
+runHareCommand runHareCommand228,229
+runHareCommand' runHareCommand'243,244
+runHareCommand' runHareCommand'245,246
+hoist hoist275,276
+codeActionProvider codeActionProvider284,285
+codeActionProvider codeActionProvider285,286
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/GhcMod.hs,3240
+module Haskell.Ide.Engine.Plugin.GhcMod Haskell.Ide.Engine.Plugin.GhcMod7,8
+ghcmodDescriptor ghcmodDescriptor53,54
+ghcmodDescriptor ghcmodDescriptor54,55
+type Diagnostics Diagnostics76,77
+type AdditionalErrs AdditionalErrs77,78
+checkCmd checkCmd79,80
+checkCmd checkCmd80,81
+lspSev lspSev84,85
+lspSev lspSev85,86
+logDiag logDiag92,93
+logDiag logDiag93,94
+unhelpfulSrcSpanErr unhelpfulSrcSpanErr106,107
+unhelpfulSrcSpanErr unhelpfulSrcSpanErr107,108
+srcErrToDiag srcErrToDiag112,113
+srcErrToDiag srcErrToDiag116,117
+myWrapper myWrapper139,140
+myWrapper myWrapper143,144
+errorHandlers errorHandlers158,159
+errorHandlers errorHandlers159,160
+setTypecheckedModule setTypecheckedModule180,181
+setTypecheckedModule setTypecheckedModule181,182
+lintCmd lintCmd230,231
+lintCmd lintCmd231,232
+lintCmd' lintCmd'233,234
+lintCmd' lintCmd'234,235
+customOptions customOptions240,241
+customOptions customOptions241,242
+data InfoParams InfoParams243,244
+  IP IP244,245
+  IP { ipFile ipFile244,245
+     , ipExpr ipExpr245,246
+instance instance248,249
+infoCmd infoCmd253,254
+infoCmd infoCmd254,255
+infoCmd' infoCmd'257,258
+infoCmd' infoCmd'258,259
+data TypeParams TypeParams263,264
+  TP TP264,265
+  TP { tpIncludeConstraints tpIncludeConstraints264,265
+     , tpFile tpFile265,266
+     , tpPos tpPos266,267
+typeCmd typeCmd274,275
+typeCmd typeCmd275,276
+newTypeCmd newTypeCmd278,279
+newTypeCmd newTypeCmd279,280
+pureTypeCmd pureTypeCmd284,285
+pureTypeCmd pureTypeCmd285,286
+cmp cmp303,304
+  | a `isSubRangeOf`isSubRangeOf305,306
+isSubRangeOf isSubRangeOf309,310
+newtype TypeDef TypeDef314,315
+newtype TypeDef = TypeDef TypeDef314,315
+data FunctionSig FunctionSig316,317
+  FunctionSig FunctionSig317,318
+  FunctionSig { fsName fsName317,318
+              , fsType fsType318,319
+newtype ValidSubstitutions ValidSubstitutions321,322
+newtype ValidSubstitutions = ValidSubstitutions ValidSubstitutions321,322
+newtype Bindings Bindings323,324
+newtype Bindings = Bindings Bindings323,324
+data TypedHoles TypedHoles325,326
+  TypedHoles TypedHoles326,327
+  TypedHoles { thDiag thDiag326,327
+             , thWant thWant327,328
+             , thSubstitutions thSubstitutions328,329
+             , thBindings thBindings329,330
+codeActionProvider codeActionProvider332,333
+codeActionProvider codeActionProvider333,334
+codeActionProvider' codeActionProvider'337,338
+codeActionProvider' codeActionProvider'338,339
+extractRenamableTerms extractRenamableTerms472,473
+  | "ot in scope:" `T.isInfixOf`T.isInfixOf475,476
+extractRedundantImport extractRedundantImport488,489
+extractRedundantImport extractRedundantImport489,490
+extractHoleSubstitutions extractHoleSubstitutions499,500
+extractMissingSignature extractMissingSignature557,558
+extractMissingSignature extractMissingSignature558,559
+extractUnusedTerm extractUnusedTerm564,565
+extractUnusedTerm extractUnusedTerm565,566
+hoverProvider hoverProvider575,576
+hoverProvider hoverProvider576,577
+data Decl Decl611,612
+data Decl = Decl Decl611,612
+          | Import Import612,613
+symbolProvider symbolProvider614,615
+symbolProvider symbolProvider615,616
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Floskell.hs,315
+module Haskell.Ide.Engine.Plugin.FloskellHaskell.Ide.Engine.Plugin.Floskell2,3
+floskellDescriptor floskellDescriptor16,17
+floskellDescriptor floskellDescriptor17,18
+provider provider29,30
+provider provider30,31
+findConfigOrDefault findConfigOrDefault47,48
+findConfigOrDefault findConfigOrDefault48,49
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Fuzzy.hs,375
+module Haskell.Ide.Engine.Plugin.Fuzzy Haskell.Ide.Engine.Plugin.Fuzzy6,7
+data Fuzzy Fuzzy19,20
+  Fuzzy Fuzzy20,21
+  Fuzzy { original original20,21
+        , score score21,22
+match match33,34
+match match39,40
+filterBy filterBy71,72
+filterBy filterBy76,77
+simpleFilter simpleFilter85,86
+simpleFilter simpleFilter89,90
+test test98,99
+test test100,101
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Pragmas.hs,609
+module Haskell.Ide.Engine.Plugin.Pragmas Haskell.Ide.Engine.Plugin.Pragmas3,4
+pragmasDescriptor pragmasDescriptor17,18
+pragmasDescriptor pragmasDescriptor18,19
+data AddPragmaParams AddPragmaParams34,35
+data AddPragmaParams = AddPragmaParamsAddPragmaParams34,35
+  { file file35,36
+  , pragma pragma36,37
+addPragmaCmd addPragmaCmd40,41
+addPragmaCmd addPragmaCmd41,42
+codeActionProvider codeActionProvider55,56
+codeActionProvider codeActionProvider56,57
+findPragma findPragma73,74
+findPragma findPragma74,75
+possiblePragmas possiblePragmas80,81
+possiblePragmas possiblePragmas81,82
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Package.hs,1007
+module Haskell.Ide.Engine.Plugin.Package Haskell.Ide.Engine.Plugin.Package6,7
+packageDescriptor packageDescriptor52,53
+packageDescriptor packageDescriptor53,54
+data AddParams AddParams65,66
+data AddParams = AddParamsAddParams65,66
+  { rootDirParam rootDirParam66,67
+  , fileParam fileParam67,68
+  , packageParam packageParam70,71
+addCmd addCmd74,75
+addCmd addCmd75,76
+data PackageType PackageType92,93
+data PackageType = CabalPackage CabalPackage92,93
+                 | HpackPackage HpackPackage93,94
+                 | NoPackageNoPackage94,95
+findPackageType findPackageType96,97
+findPackageType findPackageType97,98
+editHpackPackage editHpackPackage108,109
+editHpackPackage editHpackPackage109,110
+editCabalPackage editCabalPackage190,191
+editCabalPackage editCabalPackage191,192
+codeActionProvider codeActionProvider235,236
+codeActionProvider codeActionProvider236,237
+extractModuleName extractModuleName262,263
+extractModuleName extractModuleName263,264
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Build.hs,4210
+module Haskell.Ide.Engine.Plugin.Build Haskell.Ide.Engine.Plugin.Build7,8
+buildPluginDescriptor buildPluginDescriptor126,127
+buildPluginDescriptor buildPluginDescriptor127,128
+data OperationMode OperationMode166,167
+data OperationMode = StackMode StackMode166,167
+data OperationMode = StackMode | CabalModeCabalMode166,167
+readMode readMode168,169
+readMode readMode169,170
+data CommonArgs CommonArgs175,176
+data CommonArgs = CommonArgs CommonArgs175,176
+         caMode caMode176,177
+        ,caDistDir caDistDir177,178
+        ,caCabal caCabal178,179
+        ,caStack caStack179,180
+data CommonParams CommonParams184,185
+data CommonParams = CommonParams CommonParams184,185
+         cpMode cpMode185,186
+        ,cpDistDir cpDistDir186,187
+        ,cpCabal cpCabal187,188
+        ,cpStack cpStack188,189
+        ,cpFile cpFile189,190
+instance instance192,193
+incorrectParameter incorrectParameter197,198
+incorrectParameter incorrectParameter198,199
+withCommonArgs withCommonArgs200,201
+withCommonArgs withCommonArgs201,202
+prepareHelper prepareHelper248,249
+prepareHelper prepareHelper249,250
+prepareHelper' prepareHelper'258,259
+prepareHelper' prepareHelper'259,260
+isConfigured isConfigured264,265
+isConfigured isConfigured265,266
+configure configure272,273
+configure configure273,274
+configureStack configureStack280,281
+configureStack configureStack281,282
+configureCabal configureCabal288,289
+configureCabal configureCabal289,290
+newtype ListFlagsParams ListFlagsParams293,294
+newtype ListFlagsParams = LF LF293,294
+newtype ListFlagsParams = LF { lfMode lfMode293,294
+listFlags listFlags300,301
+listFlags listFlags301,302
+listFlagsStack listFlagsStack312,313
+listFlagsStack listFlagsStack313,314
+listFlagsCabal listFlagsCabal317,318
+listFlagsCabal listFlagsCabal318,319
+flagToJSON flagToJSON329,330
+flagToJSON flagToJSON330,331
+unFlagName unFlagName342,343
+unFlagName unFlagName343,344
+data BuildParams BuildParams348,349
+data BuildParams = BP BP348,349
+         bpMode bpMode350,351
+        ,bpDistDir bpDistDir351,352
+        ,bpCabal bpCabal352,353
+        ,bpStack bpStack353,354
+        ,bpFile bpFile354,355
+        ,bpDirectory bpDirectory356,357
+buildDirectory buildDirectory364,365
+buildDirectory buildDirectory365,366
+data BuildTargetParams BuildTargetParams385,386
+data BuildTargetParams = BT BT385,386
+         btMode btMode387,388
+        ,btDistDir btDistDir388,389
+        ,btCabal btCabal389,390
+        ,btStack btStack390,391
+        ,btFile btFile391,392
+        ,btTarget btTarget393,394
+        ,btPackage btPackage394,395
+        ,btType btType395,396
+buildTarget buildTarget403,404
+buildTarget buildTarget404,405
+data Package Package427,428
+data Package = Package Package427,428
+    tPackageName tPackageName428,429
+   ,tDirectory tDirectory429,430
+   ,tTargets tTargets430,431
+listTargets listTargets433,434
+listTargets listTargets434,435
+listStackTargets listStackTargets445,446
+listStackTargets listStackTargets446,447
+listCabalTargets listCabalTargets450,451
+listCabalTargets listCabalTargets451,452
+getComponents getComponents471,472
+getComponents getComponents472,473
+newtype StackYaml StackYaml476,477
+newtype StackYaml = StackYaml StackYaml476,477
+data StackPackage StackPackage477,478
+data StackPackage = LocalOrHTTPPackage LocalOrHTTPPackage477,478
+data StackPackage = LocalOrHTTPPackage { stackPackageName stackPackageName477,478
+                  | RepositoryRepository478,479
+isLocal isLocal490,491
+isLocal isLocal491,492
+getStackLocalPackages getStackLocalPackages494,495
+getStackLocalPackages getStackLocalPackages495,496
+compToJSON compToJSON500,501
+compToJSON compToJSON501,502
+getDistDir getDistDir515,516
+getDistDir getDistDir516,517
+isCabalFile isCabalFile524,525
+isCabalFile isCabalFile525,526
+takeExtension' takeExtension'527,528
+takeExtension' takeExtension'528,529
+withBinaryFileContents withBinaryFileContents533,534
+withBinaryFileContents withBinaryFileContents534,535
+customOptions customOptions536,537
+customOptions customOptions537,538
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/HfaAlign.hs,624
+module Haskell.Ide.Engine.Plugin.HfaAlign Haskell.Ide.Engine.Plugin.HfaAlign7,8
+hfaAlignDescriptor hfaAlignDescriptor27,28
+hfaAlignDescriptor hfaAlignDescriptor28,29
+data AlignParams AlignParams44,45
+data AlignParams = AlignParamsAlignParams44,45
+  { file file45,46
+  , range range46,47
+alignCmd alignCmd50,51
+alignCmd alignCmd51,52
+codeActionProvider codeActionProvider66,67
+codeActionProvider codeActionProvider67,68
+prefixLength prefixLength80,81
+prefixLength prefixLength81,82
+adjustLine adjustLine85,86
+adjustLine adjustLine86,87
+adjustText adjustText98,99
+adjustText adjustText99,100
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Package/Compat.hs,760
+module Haskell.Ide.Engine.Plugin.Package.Compat Haskell.Ide.Engine.Plugin.Package.Compat1,2
+condBenchmarks condBenchmarks22,23
+condBenchmarks condBenchmarks23,24
+condExecutables condExecutables26,27
+condExecutables condExecutables27,28
+condLibrary condLibrary30,31
+condLibrary condLibrary31,32
+condSubLibraries condSubLibraries34,35
+condSubLibraries condSubLibraries35,36
+condTestSuites condTestSuites38,39
+condTestSuites condTestSuites39,40
+class HasBuildInfo HasBuildInfo42,43
+class HasBuildInfo HasBuildInfo42,43
+  buildInfo buildInfo43,44
+  hsSourceDirs hsSourceDirs45,46
+  hsSourceDirs hsSourceDirs46,47
+  targetBuildDepends targetBuildDepends49,50
+  targetBuildDepends targetBuildDepends50,51
+instance instance53,54
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Plugin/Liquid.hs,1999
+module Haskell.Ide.Engine.Plugin.Liquid Haskell.Ide.Engine.Plugin.Liquid5,6
+liquidDescriptor liquidDescriptor35,36
+liquidDescriptor liquidDescriptor36,37
+sayHelloCmd sayHelloCmd55,56
+sayHelloCmd sayHelloCmd56,57
+sayHelloToCmd sayHelloToCmd58,59
+sayHelloToCmd sayHelloToCmd59,60
+sayHello sayHello65,66
+sayHello sayHello66,67
+sayHelloTo sayHelloTo68,69
+sayHelloTo sayHelloTo69,70
+data LiquidJsonLiquidJson73,74
+  = LJLJ74,75
+    { status status75,76
+    , types types76,77
+    , errors errors77,78
+data LiquidPosLiquidPos80,81
+  = LPLP81,82
+    { line line82,83
+    , column column83,84
+data LiquidError LiquidError86,87
+  LELE87,88
+    { start start88,89
+    , stop stop89,90
+    , message message90,91
+newtype LiquidData LiquidData103,104
+  LiquidDataLiquidData104,105
+    { tid tid105,106
+instance instance108,109
+diagnosticProvider diagnosticProvider115,116
+diagnosticProvider diagnosticProvider116,117
+generateDiagnosics generateDiagnosics130,131
+generateDiagnosics generateDiagnosics131,132
+runLiquidHaskell runLiquidHaskell154,155
+runLiquidHaskell runLiquidHaskell155,156
+liquidErrorToDiagnostic liquidErrorToDiagnostic176,177
+liquidErrorToDiagnostic liquidErrorToDiagnostic177,178
+lpToPos lpToPos187,188
+lpToPos lpToPos188,189
+readJsonAnnot readJsonAnnot193,194
+readJsonAnnot readJsonAnnot194,195
+readVimAnnot readVimAnnot206,207
+readVimAnnot readVimAnnot207,208
+jsonAnnotFile jsonAnnotFile221,222
+jsonAnnotFile jsonAnnotFile222,223
+vimAnnotFile vimAnnotFile227,228
+vimAnnotFile vimAnnotFile228,229
+liquidFileFor liquidFileFor233,234
+liquidFileFor liquidFileFor234,235
+hoverProvider hoverProvider247,248
+hoverProvider hoverProvider248,249
+parseType parseType266,267
+parseType parseType267,268
+parseTypes parseTypes275,276
+parseTypes parseTypes276,277
+parseTypeFromVim parseTypeFromVim280,281
+parseTypeFromVim parseTypeFromVim281,282
+number number295,296
+number number296,297
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/LSP/CodeActions.hs,398
+module Haskell.Ide.Engine.LSP.CodeActions Haskell.Ide.Engine.LSP.CodeActions5,6
+data FallbackCodeActionParams FallbackCodeActionParams23,24
+  FallbackCodeActionParamsFallbackCodeActionParams24,25
+    { fallbackWorkspaceEdit fallbackWorkspaceEdit25,26
+    , fallbackCommand fallbackCommand26,27
+handleCodeActionReq handleCodeActionReq30,31
+handleCodeActionReq handleCodeActionReq31,32
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/LSP/Reactor.hs,862
+module Haskell.Ide.Engine.LSP.ReactorHaskell.Ide.Engine.LSP.Reactor3,4
+data REnv REnv30,31
+data REnv = REnvREnv30,31
+  { scheduler scheduler31,32
+  , lspFuncs lspFuncs32,33
+  , reactorPidCache reactorPidCache34,35
+  , diagnosticSources diagnosticSources35,36
+  , hoverProviders hoverProviders36,37
+  , symbolProviders symbolProviders37,38
+  , formattingProviders formattingProviders38,39
+type R R43,44
+instance instance45,46
+runReactor runReactor62,63
+asksLspFuncs asksLspFuncs68,69
+asksLspFuncs asksLspFuncs69,70
+reactorSend reactorSend75,76
+reactorSend reactorSend76,77
+reactorSend' reactorSend'84,85
+makeRequest makeRequest92,93
+makeRequest makeRequest93,94
+updateDocumentRequest updateDocumentRequest99,100
+cancelRequest cancelRequest102,103
+cancelRequest cancelRequest103,104
+makeRequests makeRequests113,114
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Scheduler.hs,1333
+module Haskell.Ide.Engine.SchedulerHaskell.Ide.Engine.Scheduler6,7
+data Scheduler Scheduler58,59
+data Scheduler m = SchedulerScheduler58,59
+ { plugins plugins59,60
+ , ghcModOptions ghcModOptions62,63
+ , requestsToCancel requestsToCancel66,67
+ , requestsInProgress requestsInProgress70,71
+ , documentVersions documentVersions75,76
+ , ideChan ideChan80,81
+ , ghcChan ghcChan83,84
+type DocUpdate DocUpdate88,89
+class HasScheduler HasScheduler91,92
+class HasScheduler HasScheduler91,92
+  getScheduler getScheduler92,93
+newScheduler newScheduler104,105
+type ErrorHandler ErrorHandler121,122
+type CallbackHandler CallbackHandler124,125
+type CallbackHandler m m124,125
+runScheduler runScheduler140,141
+sendRequest sendRequest179,180
+cancelRequest cancelRequest203,204
+cancelRequest cancelRequest204,205
+makeRequest makeRequest216,217
+updateDocumentRequest updateDocumentRequest228,229
+data DispatcherEnv DispatcherEnv236,237
+data DispatcherEnv = DispatcherEnvDispatcherEnv236,237
+  { cancelReqsTVar cancelReqsTVar237,238
+  , wipReqsTVar wipReqsTVar238,239
+  , docVersionTVar docVersionTVar239,240
+ideDispatcher ideDispatcher259,260
+ghcDispatcher ghcDispatcher298,299
+unlessCancelled unlessCancelled351,352
+completedReq completedReq364,365
+completedReq completedReq365,366
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Options.hs,503
+module Haskell.Ide.Engine.Options Haskell.Ide.Engine.Options1,2
+data GlobalOpts GlobalOpts8,9
+data GlobalOpts = GlobalOptsGlobalOpts8,9
+  { optDebugOn optDebugOn9,10
+  , optLogFile optLogFile10,11
+  , optLsp optLsp11,12
+  , optJson optJson12,13
+  , projectRoot projectRoot13,14
+  , optGhcModVomit optGhcModVomit14,15
+  , optCaptureFile optCaptureFile15,16
+  , optExamplePlugin optExamplePlugin16,17
+globalOptsParser globalOptsParser19,20
+globalOptsParser globalOptsParser20,21
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Types.hs,717
+module Haskell.Ide.Engine.Types Haskell.Ide.Engine.Types4,5
+type RequestCallback RequestCallback12,13
+type RequestCallback m m12,13
+type TrackingNumber TrackingNumber15,16
+pattern pattern26,27
+type PluginRequest PluginRequest31,32
+data GhcRequest GhcRequest33,34
+data GhcRequest m = forall forall33,34
+  { pinMsgNum pinMsgNum34,35
+  , pinContext pinContext35,36
+  , pinDocVer pinDocVer36,37
+  , pinLspReqId pinLspReqId37,38
+  , pinCallback pinCallback38,39
+  , pinReq pinReq39,40
+data IdeRequest IdeRequest42,43
+data IdeRequest m = forall forall42,43
+  { pureMsgNum pureMsgNum43,44
+  , pureReqId pureReqId44,45
+  , pureReqCallback pureReqCallback45,46
+  , pureReq pureReq46,47
+
+./haskell-ide-engine/src/Haskell/Ide/Engine/Channel.hs,544
+module Haskell.Ide.Engine.ChannelHaskell.Ide.Engine.Channel0,1
+newtype InChan InChan17,18
+newtype InChan a = InChan InChan17,18
+newtype OutChan OutChan21,22
+newtype OutChan a = OutChan OutChan21,22
+newChan newChan25,26
+newChan newChan26,27
+newChanSTM newChanSTM30,31
+newChanSTM newChanSTM31,32
+readChan readChan36,37
+readChan readChan37,38
+readChanSTM readChanSTM41,42
+readChanSTM readChanSTM42,43
+writeChan writeChan45,46
+writeChan writeChan46,47
+writeChanSTM writeChanSTM50,51
+writeChanSTM writeChanSTM51,52
+
 ./Setup.hs,15
 main main1,2
 
-./src/ValuesTemplate.hs,352
+./src/ValuesTemplate.hs,466
 module ValuesTemplate ValuesTemplate2,3
 context context13,14
 context context14,15
@@ -12,17 +4730,19 @@ templateToFile templateToFile23,24
 templateToFile templateToFile24,25
 writeTemplate writeTemplate28,29
 writeTemplate writeTemplate29,30
-printTemplate printTemplate35,36
-printTemplate printTemplate36,37
+writeTemplateWithContext writeTemplateWithContext34,35
+writeTemplateWithContext writeTemplateWithContext35,36
+printTemplate printTemplate39,40
+printTemplate printTemplate40,41
 
-./src/Main.hs,173
+./src/Main.hs,176
 module Main Main0,1
-something something8,9
-something something9,10
-monitorChart monitorChart12,13
-monitorChart monitorChart13,14
-main main43,44
-main main44,45
+something something10,11
+something something11,12
+monitorChart monitorChart14,15
+monitorChart monitorChart15,16
+main main59,60
+main main60,61
 
 ./src/Cmd.hs,2321
 module CmdCmd0,1
@@ -104,19 +4824,26 @@ dockerBuild dockerBuild149,150
 pwd pwd151,152
 pwd pwd152,153
 
-./src/YamlConfigParser.hs,465
+./src/YamlConfigParser.hs,738
 module YamlConfigParser YamlConfigParser1,2
-main main12,13
-main main13,14
-getYamlValue getYamlValue18,19
-getYamlValue getYamlValue19,20
-parseData parseData21,22
-parseDeployment parseDeployment34,35
-data Deployment Deployment50,51
-data Deployment = Deployment Deployment50,51
-  name name51,52
-  namespace namespace52,53
-parseSequence parseSequence55,56
-parseSequence parseSequence56,57
-getValMap getValMap59,60
-getValMap getValMap60,61
+parseTest parseTest15,16
+parseTest parseTest16,17
+getYamlValue getYamlValue22,23
+getYamlValue getYamlValue23,24
+parseSequence parseSequence25,26
+parseSequence parseSequence26,27
+parseList parseList29,30
+parseList parseList30,31
+parseResource parseResource38,39
+parseResource parseResource39,40
+parseDeployment parseDeployment47,48
+parseDeployment parseDeployment48,49
+parseDeploymentAsMap parseDeploymentAsMap69,70
+parseDeploymentAsMap parseDeploymentAsMap70,71
+data Deployment Deployment76,77
+data Deployment = Deployment Deployment76,77
+  name name77,78
+  namespace namespace78,79
+  host host79,80
+getValMap getValMap84,85
+getValMap getValMap85,86

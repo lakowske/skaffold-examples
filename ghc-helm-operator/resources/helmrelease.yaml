@@ -3,7 +3,6 @@ kind: HelmRelease
 metadata:
   name: my-new-release-object2
 spec:
-  - name: "joe"
-    namespace: "jacky2"
-  - name: "jane2"
-    namespace: "janel2"
+  name: "joe"
+  namespace: "jacky2"
+  host: minikube.st81ess.com

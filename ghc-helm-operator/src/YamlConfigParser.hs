@@ -6,32 +6,46 @@ import Data.Aeson.Types
 import Data.Yaml.Parser as Y
 import qualified Data.ByteString as B
 import qualified Data.ByteString.Char8 as C
-import Text.Libyaml
 import Data.Text
 import qualified Data.Map as M
+import Data.Text.Template
+import qualified Data.Text as T
 
-main :: IO ()
-main = do
-  configmap <- getYamlValue "./src/configmap.yaml"
-  putStrLn $ show $ (parse parseData configmap)
-  putStrLn $ show configmap
+import ValuesTemplate
+
+parseTest :: IO ()
+parseTest = do
+  list <- getYamlValue "./resources/helmreleaselist.yaml"
+  putStrLn $ show list  
+  putStrLn $ show $ (parse (parseList (parseResource parseDeployment)) list)
+
 
 getYamlValue :: FilePath -> IO YamlValue
 getYamlValue filePath = readYamlFile filePath
 
-parseData (Mapping vals _) = do
-  let configData = lookup "data" vals
+parseSequence :: YamlValue -> (YamlValue -> Parser a) -> Parser [a]
+parseSequence (Sequence vals anchor) f = mapM f vals
+parseSequence _ _ = fail "not a sequence"
 
-  configField <- case configData of
-    Just config -> return config
-    Nothing -> fail "no field data"
-    
-  seq <- case configField of
-    Sequence s a -> parseSequence (Sequence s a)
-    _            -> fail "expected a list"
-    
-  return seq
+parseList :: (YamlValue -> Parser t) -> YamlValue -> Parser [t]
+parseList f (Mapping vals _) = do
+  let itemsData = lookup "items" vals
+  
+  case itemsData of
+    Just s -> parseSequence s f
+    Nothing -> fail "no items"
 
+
+parseResource :: (YamlValue -> Parser a) -> YamlValue -> Parser a
+parseResource f (Mapping vals _) = do
+  let configData = lookup "spec" vals
+
+  case configData of
+    Just config -> f config
+    Nothing -> fail "no spec data"
+    
+
+parseDeployment :: YamlValue -> Parser Deployment
 parseDeployment (Mapping vals _) = do
   let maybeName = lookup "name" vals
 
@@ -45,16 +59,27 @@ parseDeployment (Mapping vals _) = do
     Just (Scalar ns _ _ _) -> return ns
     Nothing -> fail "deployment missing namespace"
 
-  return $ Deployment (C.unpack name) (C.unpack namespace)
+  let maybeHost = lookup "host" vals
+  host <- case maybeHost of
+    Just (Scalar h _ _ _) -> return h
+    Nothing -> fail "missing host"
+    
+  return $ Deployment (C.unpack name) (C.unpack namespace) (C.unpack host)
+parseDeployment x = error (" not a mapping" ++ (show x))
+
+parseDeploymentAsMap :: YamlValue -> Parser Context
+parseDeploymentAsMap val = do
+  dep <- parseDeployment val
+  return $ context [("name", T.pack $ name dep), ("namespace", T.pack $ namespace dep), ("host", T.pack $ host dep)]
+    
     
 
 data Deployment = Deployment {
   name :: String,
-  namespace :: String
+  namespace :: String,
+  host :: String
   } deriving (Show)
   
-parseSequence :: YamlValue -> Parser [Deployment]
-parseSequence (Sequence vals a) = mapM parseDeployment vals
 
   
 getValMap :: [(Text, YamlValue)] -> M.Map Text YamlValue

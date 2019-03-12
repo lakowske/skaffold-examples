@@ -30,7 +30,11 @@ writeTemplate :: T.Text -> FilePath -> IO ()
 writeTemplate template filePath = do
   S.writeFile filePath (E.encodeUtf8 $ substitute template helloContext)
   where
-    helloContext  = context [("host", "minikube.st81ess.com")]
+    helloContext  = context [("host", "kansas.st81ess.com")]
+
+writeTemplateWithContext :: T.Text -> FilePath -> Context -> IO ()
+writeTemplateWithContext template filePath tcontext = do
+  S.writeFile filePath (E.encodeUtf8 $ substitute template tcontext)
 
   
 printTemplate :: T.Text -> IO ()
